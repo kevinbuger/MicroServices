@@ -1,0 +1,17 @@
+H:\Project\MS\AspnetMicroservices\src\Catalog.Repositories\bin\Debug\net6.0\Catalog.Repositories.deps.json
+H:\Project\MS\AspnetMicroservices\src\Catalog.Repositories\bin\Debug\net6.0\Catalog.Repositories.dll
+H:\Project\MS\AspnetMicroservices\src\Catalog.Repositories\bin\Debug\net6.0\ref\Catalog.Repositories.dll
+H:\Project\MS\AspnetMicroservices\src\Catalog.Repositories\bin\Debug\net6.0\Catalog.Repositories.pdb
+H:\Project\MS\AspnetMicroservices\src\Catalog.Repositories\bin\Debug\net6.0\Catalog.Data.dll
+H:\Project\MS\AspnetMicroservices\src\Catalog.Repositories\bin\Debug\net6.0\Catalog.Model.dll
+H:\Project\MS\AspnetMicroservices\src\Catalog.Repositories\bin\Debug\net6.0\Catalog.Data.pdb
+H:\Project\MS\AspnetMicroservices\src\Catalog.Repositories\bin\Debug\net6.0\Catalog.Model.pdb
+H:\Project\MS\AspnetMicroservices\src\Catalog.Repositories\obj\Debug\net6.0\Catalog.Repositories.csproj.AssemblyReference.cache
+H:\Project\MS\AspnetMicroservices\src\Catalog.Repositories\obj\Debug\net6.0\Catalog.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+H:\Project\MS\AspnetMicroservices\src\Catalog.Repositories\obj\Debug\net6.0\Catalog.Repositories.AssemblyInfoInputs.cache
+H:\Project\MS\AspnetMicroservices\src\Catalog.Repositories\obj\Debug\net6.0\Catalog.Repositories.AssemblyInfo.cs
+H:\Project\MS\AspnetMicroservices\src\Catalog.Repositories\obj\Debug\net6.0\Catalog.Repositories.csproj.CoreCompileInputs.cache
+H:\Project\MS\AspnetMicroservices\src\Catalog.Repositories\obj\Debug\net6.0\Catalog.Repositories.csproj.CopyComplete
+H:\Project\MS\AspnetMicroservices\src\Catalog.Repositories\obj\Debug\net6.0\Catalog.Repositories.dll
+H:\Project\MS\AspnetMicroservices\src\Catalog.Repositories\obj\Debug\net6.0\ref\Catalog.Repositories.dll
+H:\Project\MS\AspnetMicroservices\src\Catalog.Repositories\obj\Debug\net6.0\Catalog.Repositories.pdb

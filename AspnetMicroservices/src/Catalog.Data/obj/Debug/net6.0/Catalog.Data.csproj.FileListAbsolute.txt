@@ -1,0 +1,15 @@
+H:\Project\MS\AspnetMicroservices\src\Catalog.Data\bin\Debug\net6.0\Catalog.Data.deps.json
+H:\Project\MS\AspnetMicroservices\src\Catalog.Data\bin\Debug\net6.0\Catalog.Data.dll
+H:\Project\MS\AspnetMicroservices\src\Catalog.Data\bin\Debug\net6.0\ref\Catalog.Data.dll
+H:\Project\MS\AspnetMicroservices\src\Catalog.Data\bin\Debug\net6.0\Catalog.Data.pdb
+H:\Project\MS\AspnetMicroservices\src\Catalog.Data\bin\Debug\net6.0\Catalog.Model.dll
+H:\Project\MS\AspnetMicroservices\src\Catalog.Data\bin\Debug\net6.0\Catalog.Model.pdb
+H:\Project\MS\AspnetMicroservices\src\Catalog.Data\obj\Debug\net6.0\Catalog.Data.csproj.AssemblyReference.cache
+H:\Project\MS\AspnetMicroservices\src\Catalog.Data\obj\Debug\net6.0\Catalog.Data.GeneratedMSBuildEditorConfig.editorconfig
+H:\Project\MS\AspnetMicroservices\src\Catalog.Data\obj\Debug\net6.0\Catalog.Data.AssemblyInfoInputs.cache
+H:\Project\MS\AspnetMicroservices\src\Catalog.Data\obj\Debug\net6.0\Catalog.Data.AssemblyInfo.cs
+H:\Project\MS\AspnetMicroservices\src\Catalog.Data\obj\Debug\net6.0\Catalog.Data.csproj.CoreCompileInputs.cache
+H:\Project\MS\AspnetMicroservices\src\Catalog.Data\obj\Debug\net6.0\Catalog.Data.csproj.CopyComplete
+H:\Project\MS\AspnetMicroservices\src\Catalog.Data\obj\Debug\net6.0\Catalog.Data.dll
+H:\Project\MS\AspnetMicroservices\src\Catalog.Data\obj\Debug\net6.0\ref\Catalog.Data.dll
+H:\Project\MS\AspnetMicroservices\src\Catalog.Data\obj\Debug\net6.0\Catalog.Data.pdb
