@@ -13,9 +13,9 @@ namespace Catalog.Data
     {
         public CatalogContext(IConfiguration configuration)
         {
-            string conStr = configuration.GetSection("ConnectionString").Value;
-            string dbStr = configuration.GetSection("DatabaseName").Value;
-            string colStr = configuration.GetSection("CollectionName").Value;//configuration.GetValue<string>("DatabaseSettings:CollectionName");
+            string conStr = configuration.GetSection("DatabaseSettings:ConnectionString").Value;
+            string dbStr = configuration.GetSection("DatabaseSettings:DatabaseName").Value;
+            string colStr = configuration.GetSection("DatabaseSettings:CollectionName").Value;//configuration.GetValue<string>("DatabaseSettings:CollectionName");
 
             var client = new MongoClient(conStr);
             var database = client.GetDatabase(dbStr); 
