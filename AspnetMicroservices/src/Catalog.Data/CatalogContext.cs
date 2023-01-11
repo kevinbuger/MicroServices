@@ -21,7 +21,7 @@ namespace Catalog.Data
             var database = client.GetDatabase(dbStr); 
             Products = database.GetCollection<Product>(colStr);
 
-            // CatalogContextSeed.SeedData(Products);
+            CatalogContextSeed.SeedData(Products);
         }
         public IMongoCollection<Product> Products { get; }
     }

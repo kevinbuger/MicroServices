@@ -1,0 +1,15 @@
+H:\Project\MS\AspnetMicroservices\src\Services\Basket\Basket.Repositories\bin\Debug\net6.0\Basket.Repositories.deps.json
+H:\Project\MS\AspnetMicroservices\src\Services\Basket\Basket.Repositories\bin\Debug\net6.0\Basket.Repositories.dll
+H:\Project\MS\AspnetMicroservices\src\Services\Basket\Basket.Repositories\bin\Debug\net6.0\ref\Basket.Repositories.dll
+H:\Project\MS\AspnetMicroservices\src\Services\Basket\Basket.Repositories\bin\Debug\net6.0\Basket.Repositories.pdb
+H:\Project\MS\AspnetMicroservices\src\Services\Basket\Basket.Repositories\bin\Debug\net6.0\Basket.Model.dll
+H:\Project\MS\AspnetMicroservices\src\Services\Basket\Basket.Repositories\bin\Debug\net6.0\Basket.Model.pdb
+H:\Project\MS\AspnetMicroservices\src\Services\Basket\Basket.Repositories\obj\Debug\net6.0\Basket.Repositories.csproj.AssemblyReference.cache
+H:\Project\MS\AspnetMicroservices\src\Services\Basket\Basket.Repositories\obj\Debug\net6.0\Basket.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+H:\Project\MS\AspnetMicroservices\src\Services\Basket\Basket.Repositories\obj\Debug\net6.0\Basket.Repositories.AssemblyInfoInputs.cache
+H:\Project\MS\AspnetMicroservices\src\Services\Basket\Basket.Repositories\obj\Debug\net6.0\Basket.Repositories.AssemblyInfo.cs
+H:\Project\MS\AspnetMicroservices\src\Services\Basket\Basket.Repositories\obj\Debug\net6.0\Basket.Repositories.csproj.CoreCompileInputs.cache
+H:\Project\MS\AspnetMicroservices\src\Services\Basket\Basket.Repositories\obj\Debug\net6.0\Basket.Repositories.csproj.CopyComplete
+H:\Project\MS\AspnetMicroservices\src\Services\Basket\Basket.Repositories\obj\Debug\net6.0\Basket.Repositories.dll
+H:\Project\MS\AspnetMicroservices\src\Services\Basket\Basket.Repositories\obj\Debug\net6.0\ref\Basket.Repositories.dll
+H:\Project\MS\AspnetMicroservices\src\Services\Basket\Basket.Repositories\obj\Debug\net6.0\Basket.Repositories.pdb

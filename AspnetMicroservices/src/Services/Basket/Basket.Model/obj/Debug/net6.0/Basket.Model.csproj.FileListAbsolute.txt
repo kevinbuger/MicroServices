@@ -1,0 +1,11 @@
+H:\Project\MS\AspnetMicroservices\src\Services\Basket\Basket.Model\bin\Debug\net6.0\Basket.Model.deps.json
+H:\Project\MS\AspnetMicroservices\src\Services\Basket\Basket.Model\bin\Debug\net6.0\Basket.Model.dll
+H:\Project\MS\AspnetMicroservices\src\Services\Basket\Basket.Model\bin\Debug\net6.0\ref\Basket.Model.dll
+H:\Project\MS\AspnetMicroservices\src\Services\Basket\Basket.Model\bin\Debug\net6.0\Basket.Model.pdb
+H:\Project\MS\AspnetMicroservices\src\Services\Basket\Basket.Model\obj\Debug\net6.0\Basket.Model.GeneratedMSBuildEditorConfig.editorconfig
+H:\Project\MS\AspnetMicroservices\src\Services\Basket\Basket.Model\obj\Debug\net6.0\Basket.Model.AssemblyInfoInputs.cache
+H:\Project\MS\AspnetMicroservices\src\Services\Basket\Basket.Model\obj\Debug\net6.0\Basket.Model.AssemblyInfo.cs
+H:\Project\MS\AspnetMicroservices\src\Services\Basket\Basket.Model\obj\Debug\net6.0\Basket.Model.csproj.CoreCompileInputs.cache
+H:\Project\MS\AspnetMicroservices\src\Services\Basket\Basket.Model\obj\Debug\net6.0\Basket.Model.dll
+H:\Project\MS\AspnetMicroservices\src\Services\Basket\Basket.Model\obj\Debug\net6.0\ref\Basket.Model.dll
+H:\Project\MS\AspnetMicroservices\src\Services\Basket\Basket.Model\obj\Debug\net6.0\Basket.Model.pdb

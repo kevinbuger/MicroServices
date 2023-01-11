@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ejaFRpPwFbc3AzCodqeITPj7i2ZZIq7PFEyZWRohJp4RjKHH/Lzf+uCrAg+6KK1lhJyvmFcIkbhiyreYSZU1Fg==",
+  "success": true,
+  "projectFilePath": "H:\\Project\\MS\\AspnetMicroservices\\src\\Services\\Basket\\Basket.Repositories\\Basket.Repositories.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\k.deyjoori\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\k.deyjoori\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\k.deyjoori\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\k.deyjoori\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
