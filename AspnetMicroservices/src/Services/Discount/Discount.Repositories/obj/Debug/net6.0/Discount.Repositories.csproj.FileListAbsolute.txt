@@ -1,0 +1,15 @@
+H:\Project\MS\AspnetMicroservices\src\Services\Discount\Discount.Repositories\bin\Debug\net6.0\Discount.Repositories.deps.json
+H:\Project\MS\AspnetMicroservices\src\Services\Discount\Discount.Repositories\bin\Debug\net6.0\Discount.Repositories.dll
+H:\Project\MS\AspnetMicroservices\src\Services\Discount\Discount.Repositories\bin\Debug\net6.0\ref\Discount.Repositories.dll
+H:\Project\MS\AspnetMicroservices\src\Services\Discount\Discount.Repositories\bin\Debug\net6.0\Discount.Repositories.pdb
+H:\Project\MS\AspnetMicroservices\src\Services\Discount\Discount.Repositories\bin\Debug\net6.0\Discount.Model.dll
+H:\Project\MS\AspnetMicroservices\src\Services\Discount\Discount.Repositories\bin\Debug\net6.0\Discount.Model.pdb
+H:\Project\MS\AspnetMicroservices\src\Services\Discount\Discount.Repositories\obj\Debug\net6.0\Discount.Repositories.csproj.AssemblyReference.cache
+H:\Project\MS\AspnetMicroservices\src\Services\Discount\Discount.Repositories\obj\Debug\net6.0\Discount.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+H:\Project\MS\AspnetMicroservices\src\Services\Discount\Discount.Repositories\obj\Debug\net6.0\Discount.Repositories.AssemblyInfoInputs.cache
+H:\Project\MS\AspnetMicroservices\src\Services\Discount\Discount.Repositories\obj\Debug\net6.0\Discount.Repositories.AssemblyInfo.cs
+H:\Project\MS\AspnetMicroservices\src\Services\Discount\Discount.Repositories\obj\Debug\net6.0\Discount.Repositories.csproj.CoreCompileInputs.cache
+H:\Project\MS\AspnetMicroservices\src\Services\Discount\Discount.Repositories\obj\Debug\net6.0\Discount.Repositories.csproj.CopyComplete
+H:\Project\MS\AspnetMicroservices\src\Services\Discount\Discount.Repositories\obj\Debug\net6.0\Discount.Repositories.dll
+H:\Project\MS\AspnetMicroservices\src\Services\Discount\Discount.Repositories\obj\Debug\net6.0\ref\Discount.Repositories.dll
+H:\Project\MS\AspnetMicroservices\src\Services\Discount\Discount.Repositories\obj\Debug\net6.0\Discount.Repositories.pdb

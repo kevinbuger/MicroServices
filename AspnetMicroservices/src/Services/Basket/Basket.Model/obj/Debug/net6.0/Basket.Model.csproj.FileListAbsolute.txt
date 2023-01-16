@@ -9,3 +9,4 @@ H:\Project\MS\AspnetMicroservices\src\Services\Basket\Basket.Model\obj\Debug\net
 H:\Project\MS\AspnetMicroservices\src\Services\Basket\Basket.Model\obj\Debug\net6.0\Basket.Model.dll
 H:\Project\MS\AspnetMicroservices\src\Services\Basket\Basket.Model\obj\Debug\net6.0\ref\Basket.Model.dll
 H:\Project\MS\AspnetMicroservices\src\Services\Basket\Basket.Model\obj\Debug\net6.0\Basket.Model.pdb
+H:\Project\MS\AspnetMicroservices\src\Services\Basket\Basket.Model\obj\Debug\net6.0\Basket.Model.csproj.AssemblyReference.cache

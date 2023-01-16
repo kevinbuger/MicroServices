@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "4GT1IYs3MPl188QFIgCAfYRhwhj1gpy7wxINcOm/TDmR2PecJq7VsG2K0X9eSloXi9zcSAnfvBHNZJZoz16OiA==",
+  "success": true,
+  "projectFilePath": "H:\\Project\\MS\\AspnetMicroservices\\src\\Services\\Discount\\Discount.Repositories\\Discount.Repositories.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\k.deyjoori\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\k.deyjoori\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\k.deyjoori\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\k.deyjoori\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\k.deyjoori\\.nuget\\packages\\npgsql\\7.0.1\\npgsql.7.0.1.nupkg.sha512",
+    "C:\\Users\\k.deyjoori\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

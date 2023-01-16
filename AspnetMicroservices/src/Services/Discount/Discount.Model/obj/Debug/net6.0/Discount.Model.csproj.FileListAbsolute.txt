@@ -1,0 +1,12 @@
+H:\Project\MS\AspnetMicroservices\src\Services\Discount\Discount.Model\bin\Debug\net6.0\Discount.Model.deps.json
+H:\Project\MS\AspnetMicroservices\src\Services\Discount\Discount.Model\bin\Debug\net6.0\Discount.Model.dll
+H:\Project\MS\AspnetMicroservices\src\Services\Discount\Discount.Model\bin\Debug\net6.0\ref\Discount.Model.dll
+H:\Project\MS\AspnetMicroservices\src\Services\Discount\Discount.Model\bin\Debug\net6.0\Discount.Model.pdb
+H:\Project\MS\AspnetMicroservices\src\Services\Discount\Discount.Model\obj\Debug\net6.0\Discount.Model.GeneratedMSBuildEditorConfig.editorconfig
+H:\Project\MS\AspnetMicroservices\src\Services\Discount\Discount.Model\obj\Debug\net6.0\Discount.Model.AssemblyInfoInputs.cache
+H:\Project\MS\AspnetMicroservices\src\Services\Discount\Discount.Model\obj\Debug\net6.0\Discount.Model.AssemblyInfo.cs
+H:\Project\MS\AspnetMicroservices\src\Services\Discount\Discount.Model\obj\Debug\net6.0\Discount.Model.csproj.CoreCompileInputs.cache
+H:\Project\MS\AspnetMicroservices\src\Services\Discount\Discount.Model\obj\Debug\net6.0\Discount.Model.dll
+H:\Project\MS\AspnetMicroservices\src\Services\Discount\Discount.Model\obj\Debug\net6.0\ref\Discount.Model.dll
+H:\Project\MS\AspnetMicroservices\src\Services\Discount\Discount.Model\obj\Debug\net6.0\Discount.Model.pdb
+H:\Project\MS\AspnetMicroservices\src\Services\Discount\Discount.Model\obj\Debug\net6.0\Discount.Model.csproj.AssemblyReference.cache
