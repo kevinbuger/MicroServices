@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "53915daf-1977-4bb2-ac92-586c9f17806a": {
+      "ProjectGuid": "53915daf-1977-4bb2-ac92-586c9f17806a",
+      "DisplayName": "Catalog.API",
+      "ColorIndex": 0
+    },
+    "b86c2519-59a1-40fa-81b8-1f0499e5e2de": {
+      "ProjectGuid": "b86c2519-59a1-40fa-81b8-1f0499e5e2de",
+      "DisplayName": "Catalog.Data",
+      "ColorIndex": 1
+    },
+    "4cec7d5e-0147-40e3-a0f3-56722dc5f0a2": {
+      "ProjectGuid": "4cec7d5e-0147-40e3-a0f3-56722dc5f0a2",
+      "DisplayName": "Catalog.Model",
+      "ColorIndex": 2
+    },
+    "2a1169ba-8d2c-4faa-9d49-3d6e26961d88": {
+      "ProjectGuid": "2a1169ba-8d2c-4faa-9d49-3d6e26961d88",
+      "DisplayName": "Catalog.Repositories",
+      "ColorIndex": 3
+    },
+    "68559e41-f163-4bdb-91cd-cd2ae9f4630b": {
+      "ProjectGuid": "68559e41-f163-4bdb-91cd-cd2ae9f4630b",
+      "DisplayName": "docker-compose",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "b4ac0101-cb49-4a52-9063-3a78897be783": {
+      "ProjectGuid": "b4ac0101-cb49-4a52-9063-3a78897be783",
+      "DisplayName": "Basket.API",
+      "ColorIndex": 5
+    },
+    "7e836fd1-5761-4a66-b6a7-e17d110535f2": {
+      "ProjectGuid": "7e836fd1-5761-4a66-b6a7-e17d110535f2",
+      "DisplayName": "Basket.Model",
+      "ColorIndex": 6
+    },
+    "591ec875-1cb6-414c-aa83-762aac7d4eaf": {
+      "ProjectGuid": "591ec875-1cb6-414c-aa83-762aac7d4eaf",
+      "DisplayName": "Basket.Repositories",
+      "ColorIndex": 7
+    },
+    "dee3496f-700b-450e-9447-301ae0d14dbc": {
+      "ProjectGuid": "dee3496f-700b-450e-9447-301ae0d14dbc",
+      "DisplayName": "Discount.API",
+      "ColorIndex": 8
+    },
+    "e8ed3e5a-959d-4d69-b3eb-2e75911ab746": {
+      "ProjectGuid": "e8ed3e5a-959d-4d69-b3eb-2e75911ab746",
+      "DisplayName": "Discount.Model",
+      "ColorIndex": 9
+    },
+    "92981f90-4561-4eb0-af43-b72fa83cd6c5": {
+      "ProjectGuid": "92981f90-4561-4eb0-af43-b72fa83cd6c5",
+      "DisplayName": "Discount.Repositories",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}

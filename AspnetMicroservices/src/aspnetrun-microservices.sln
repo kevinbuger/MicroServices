@@ -7,31 +7,33 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{7F
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Catalog", "Catalog", "{9BD26D38-32D2-4CD9-8227-F9D804B8C6EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catalog.API", "Services\Catalog\Catalog.API\Catalog.API.csproj", "{53915DAF-1977-4BB2-AC92-586C9F17806A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Catalog.API", "Services\Catalog\Catalog.API\Catalog.API.csproj", "{53915DAF-1977-4BB2-AC92-586C9F17806A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catalog.Data", "Catalog.Data\Catalog.Data.csproj", "{B86C2519-59A1-40FA-81B8-1F0499E5E2DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Catalog.Data", "Catalog.Data\Catalog.Data.csproj", "{B86C2519-59A1-40FA-81B8-1F0499E5E2DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catalog.Model", "Catalog.Model\Catalog.Model.csproj", "{4CEC7D5E-0147-40E3-A0F3-56722DC5F0A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Catalog.Model", "Catalog.Model\Catalog.Model.csproj", "{4CEC7D5E-0147-40E3-A0F3-56722DC5F0A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catalog.Repositories", "Catalog.Repositories\Catalog.Repositories.csproj", "{2A1169BA-8D2C-4FAA-9D49-3D6E26961D88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Catalog.Repositories", "Catalog.Repositories\Catalog.Repositories.csproj", "{2A1169BA-8D2C-4FAA-9D49-3D6E26961D88}"
 EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{68559E41-F163-4BDB-91CD-CD2AE9F4630B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Basket", "Basket", "{F5E70254-02B5-4CC5-9873-432C4E8F279B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basket.API", "Services\Basket\Basket.API\Basket.API.csproj", "{B4AC0101-CB49-4A52-9063-3A78897BE783}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Basket.API", "Services\Basket\Basket.API\Basket.API.csproj", "{B4AC0101-CB49-4A52-9063-3A78897BE783}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basket.Model", "Services\Basket\Basket.Model\Basket.Model.csproj", "{7E836FD1-5761-4A66-B6A7-E17D110535F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Basket.Model", "Services\Basket\Basket.Model\Basket.Model.csproj", "{7E836FD1-5761-4A66-B6A7-E17D110535F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basket.Repositories", "Services\Basket\Basket.Repositories\Basket.Repositories.csproj", "{591EC875-1CB6-414C-AA83-762AAC7D4EAF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Basket.Repositories", "Services\Basket\Basket.Repositories\Basket.Repositories.csproj", "{591EC875-1CB6-414C-AA83-762AAC7D4EAF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Discount", "Discount", "{C87A3FAD-963E-4D11-ACDC-0908FD16F59E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discount.API", "Services\Discount\Discount.API\Discount.API.csproj", "{DEE3496F-700B-450E-9447-301AE0D14DBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Discount.API", "Services\Discount\Discount.API\Discount.API.csproj", "{DEE3496F-700B-450E-9447-301AE0D14DBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discount.Model", "Services\Discount\Discount.Model\Discount.Model.csproj", "{E8ED3E5A-959D-4D69-B3EB-2E75911AB746}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Discount.Model", "Services\Discount\Discount.Model\Discount.Model.csproj", "{E8ED3E5A-959D-4D69-B3EB-2E75911AB746}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discount.Repositories", "Services\Discount\Discount.Repositories\Discount.Repositories.csproj", "{92981F90-4561-4EB0-AF43-B72FA83CD6C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Discount.Repositories", "Services\Discount\Discount.Repositories\Discount.Repositories.csproj", "{92981F90-4561-4EB0-AF43-B72FA83CD6C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discount.Grpc", "Services\Discount\Discount.Grpc\Discount.Grpc.csproj", "{7D9B1831-0CFD-461F-9285-1565139EB4EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -83,6 +85,10 @@ Global
 		{92981F90-4561-4EB0-AF43-B72FA83CD6C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92981F90-4561-4EB0-AF43-B72FA83CD6C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92981F90-4561-4EB0-AF43-B72FA83CD6C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D9B1831-0CFD-461F-9285-1565139EB4EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D9B1831-0CFD-461F-9285-1565139EB4EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D9B1831-0CFD-461F-9285-1565139EB4EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D9B1831-0CFD-461F-9285-1565139EB4EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -101,6 +107,7 @@ Global
 		{DEE3496F-700B-450E-9447-301AE0D14DBC} = {C87A3FAD-963E-4D11-ACDC-0908FD16F59E}
 		{E8ED3E5A-959D-4D69-B3EB-2E75911AB746} = {C87A3FAD-963E-4D11-ACDC-0908FD16F59E}
 		{92981F90-4561-4EB0-AF43-B72FA83CD6C5} = {C87A3FAD-963E-4D11-ACDC-0908FD16F59E}
+		{7D9B1831-0CFD-461F-9285-1565139EB4EF} = {C87A3FAD-963E-4D11-ACDC-0908FD16F59E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {182F49B3-B0D0-41FE-AF15-0E02332E5C0E}
