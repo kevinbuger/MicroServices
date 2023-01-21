@@ -60,7 +60,12 @@
       "ProjectGuid": "92981f90-4561-4eb0-af43-b72fa83cd6c5",
       "DisplayName": "Discount.Repositories",
       "ColorIndex": 10
+    },
+    "7d9b1831-0cfd-461f-9285-1565139eb4ef": {
+      "ProjectGuid": "7d9b1831-0cfd-461f-9285-1565139eb4ef",
+      "DisplayName": "Discount.Grpc",
+      "ColorIndex": 11
     }
   },
-  "NextColorIndex": 11
+  "NextColorIndex": 12
 }

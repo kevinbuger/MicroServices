@@ -1,0 +1,17 @@
+H:\Project\MS\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\net6.0\Ordering.Infrastructure.deps.json
+H:\Project\MS\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\net6.0\Ordering.Infrastructure.dll
+H:\Project\MS\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\net6.0\ref\Ordering.Infrastructure.dll
+H:\Project\MS\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\net6.0\Ordering.Infrastructure.pdb
+H:\Project\MS\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\net6.0\Ordering.Application.dll
+H:\Project\MS\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\net6.0\Ordering.Domain.dll
+H:\Project\MS\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\net6.0\Ordering.Application.pdb
+H:\Project\MS\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\net6.0\Ordering.Domain.pdb
+H:\Project\MS\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net6.0\Ordering.Infrastructure.csproj.AssemblyReference.cache
+H:\Project\MS\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net6.0\Ordering.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+H:\Project\MS\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net6.0\Ordering.Infrastructure.AssemblyInfoInputs.cache
+H:\Project\MS\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net6.0\Ordering.Infrastructure.AssemblyInfo.cs
+H:\Project\MS\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net6.0\Ordering.Infrastructure.csproj.CoreCompileInputs.cache
+H:\Project\MS\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net6.0\Ordering.Infrastructure.csproj.CopyComplete
+H:\Project\MS\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net6.0\Ordering.Infrastructure.dll
+H:\Project\MS\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net6.0\ref\Ordering.Infrastructure.dll
+H:\Project\MS\AspnetMicroservices\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net6.0\Ordering.Infrastructure.pdb
