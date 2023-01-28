@@ -58,3 +58,14 @@ H:\Project\MS\AspnetMicroservices\src\Services\Basket\Basket.API\bin\Debug\net6.
 H:\Project\MS\AspnetMicroservices\src\Services\Basket\Basket.API\bin\Debug\net6.0\Grpc.Net.Client.dll
 H:\Project\MS\AspnetMicroservices\src\Services\Basket\Basket.API\bin\Debug\net6.0\Grpc.Net.ClientFactory.dll
 H:\Project\MS\AspnetMicroservices\src\Services\Basket\Basket.API\bin\Debug\net6.0\Grpc.Net.Common.dll
+H:\Project\MS\AspnetMicroservices\src\Services\Basket\Basket.API\bin\Debug\net6.0\AutoMapper.dll
+H:\Project\MS\AspnetMicroservices\src\Services\Basket\Basket.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+H:\Project\MS\AspnetMicroservices\src\Services\Basket\Basket.API\bin\Debug\net6.0\MassTransit.dll
+H:\Project\MS\AspnetMicroservices\src\Services\Basket\Basket.API\bin\Debug\net6.0\MassTransit.Abstractions.dll
+H:\Project\MS\AspnetMicroservices\src\Services\Basket\Basket.API\bin\Debug\net6.0\MassTransit.AspNetCoreIntegration.dll
+H:\Project\MS\AspnetMicroservices\src\Services\Basket\Basket.API\bin\Debug\net6.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+H:\Project\MS\AspnetMicroservices\src\Services\Basket\Basket.API\bin\Debug\net6.0\MassTransit.RabbitMqTransport.dll
+H:\Project\MS\AspnetMicroservices\src\Services\Basket\Basket.API\bin\Debug\net6.0\RabbitMQ.Client.dll
+H:\Project\MS\AspnetMicroservices\src\Services\Basket\Basket.API\bin\Debug\net6.0\System.Text.Json.dll
+H:\Project\MS\AspnetMicroservices\src\Services\Basket\Basket.API\bin\Debug\net6.0\EventBus.Messages.dll
+H:\Project\MS\AspnetMicroservices\src\Services\Basket\Basket.API\bin\Debug\net6.0\EventBus.Messages.pdb

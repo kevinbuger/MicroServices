@@ -9,3 +9,4 @@ H:\Project\MS\AspnetMicroservices\src\Services\Discount\Discount.Model\obj\Debug
 H:\Project\MS\AspnetMicroservices\src\Services\Discount\Discount.Model\obj\Debug\net6.0\Discount.Model.dll
 H:\Project\MS\AspnetMicroservices\src\Services\Discount\Discount.Model\obj\Debug\net6.0\ref\Discount.Model.dll
 H:\Project\MS\AspnetMicroservices\src\Services\Discount\Discount.Model\obj\Debug\net6.0\Discount.Model.pdb
+H:\Project\MS\AspnetMicroservices\src\Services\Discount\Discount.Model\obj\Debug\net6.0\Discount.Model.csproj.AssemblyReference.cache

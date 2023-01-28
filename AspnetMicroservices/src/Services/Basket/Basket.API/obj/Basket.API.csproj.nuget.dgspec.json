@@ -4,6 +4,62 @@
     "H:\\Project\\MS\\AspnetMicroservices\\src\\Services\\Basket\\Basket.API\\Basket.API.csproj": {}
   },
   "projects": {
+    "H:\\Project\\MS\\AspnetMicroservices\\src\\BuildingBlocks\\EventBus.Messages\\EventBus.Messages.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Project\\MS\\AspnetMicroservices\\src\\BuildingBlocks\\EventBus.Messages\\EventBus.Messages.csproj",
+        "projectName": "EventBus.Messages",
+        "projectPath": "H:\\Project\\MS\\AspnetMicroservices\\src\\BuildingBlocks\\EventBus.Messages\\EventBus.Messages.csproj",
+        "packagesPath": "C:\\Users\\k.deyjoori\\.nuget\\packages\\",
+        "outputPath": "H:\\Project\\MS\\AspnetMicroservices\\src\\BuildingBlocks\\EventBus.Messages\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\k.deyjoori\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "H:\\Project\\MS\\AspnetMicroservices\\src\\Services\\Basket\\Basket.API\\Basket.API.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -30,6 +86,9 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "H:\\Project\\MS\\AspnetMicroservices\\src\\BuildingBlocks\\EventBus.Messages\\EventBus.Messages.csproj": {
+                "projectPath": "H:\\Project\\MS\\AspnetMicroservices\\src\\BuildingBlocks\\EventBus.Messages\\EventBus.Messages.csproj"
+              },
               "H:\\Project\\MS\\AspnetMicroservices\\src\\Services\\Basket\\Basket.Repositories\\Basket.Repositories.csproj": {
                 "projectPath": "H:\\Project\\MS\\AspnetMicroservices\\src\\Services\\Basket\\Basket.Repositories\\Basket.Repositories.csproj"
               }
@@ -46,21 +105,37 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
             "Grpc.AspNetCore": {
               "target": "Package",
-              "version": "[2.40.0, )"
+              "version": "[2.51.0, )"
+            },
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "MassTransit.AspNetCore": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.0.11, )"
             },
             "Microsoft.Extensions.Caching.StackExchangeRedis": {
               "target": "Package",
-              "version": "[7.0.1, )"
+              "version": "[7.0.2, )"
             },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
-              "version": "[1.14.0, )"
+              "version": "[1.17.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.4.0, )"
+              "version": "[6.5.0, )"
             }
           },
           "imports": [

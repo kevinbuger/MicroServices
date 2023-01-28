@@ -96,3 +96,11 @@ H:\Project\MS\AspnetMicroservices\src\Services\Ordering\Ordering.API\bin\Debug\n
 H:\Project\MS\AspnetMicroservices\src\Services\Ordering\Ordering.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
 H:\Project\MS\AspnetMicroservices\src\Services\Ordering\Ordering.API\bin\Debug\net6.0\System.Text.Json.dll
 H:\Project\MS\AspnetMicroservices\src\Services\Ordering\Ordering.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+H:\Project\MS\AspnetMicroservices\src\Services\Ordering\Ordering.API\bin\Debug\net6.0\MassTransit.dll
+H:\Project\MS\AspnetMicroservices\src\Services\Ordering\Ordering.API\bin\Debug\net6.0\MassTransit.Abstractions.dll
+H:\Project\MS\AspnetMicroservices\src\Services\Ordering\Ordering.API\bin\Debug\net6.0\MassTransit.AspNetCoreIntegration.dll
+H:\Project\MS\AspnetMicroservices\src\Services\Ordering\Ordering.API\bin\Debug\net6.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+H:\Project\MS\AspnetMicroservices\src\Services\Ordering\Ordering.API\bin\Debug\net6.0\MassTransit.RabbitMqTransport.dll
+H:\Project\MS\AspnetMicroservices\src\Services\Ordering\Ordering.API\bin\Debug\net6.0\RabbitMQ.Client.dll
+H:\Project\MS\AspnetMicroservices\src\Services\Ordering\Ordering.API\bin\Debug\net6.0\EventBus.Messages.dll
+H:\Project\MS\AspnetMicroservices\src\Services\Ordering\Ordering.API\bin\Debug\net6.0\EventBus.Messages.pdb
