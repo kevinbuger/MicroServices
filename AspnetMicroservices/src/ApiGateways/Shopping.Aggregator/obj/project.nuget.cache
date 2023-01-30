@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "mqF8cOfsH70ciHeuAqZ00ZJnLrA1S3jDWOvan3QlbfkQVLzGQxBVu1U5zYOfsz8n3Nf7X9J9oWQuhjNfceLLIQ==",
+  "success": true,
+  "projectFilePath": "H:\\Project\\MS\\AspnetMicroservices\\src\\ApiGateways\\Shopping.Aggregator\\Shopping.Aggregator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\k.deyjoori\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\k.deyjoori\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\k.deyjoori\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\k.deyjoori\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\k.deyjoori\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\k.deyjoori\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

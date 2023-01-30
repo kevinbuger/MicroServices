@@ -1,0 +1,11 @@
+H:\Project\MS\AspnetMicroservices\src\ApiGateways\Shopping.Models\bin\Debug\net6.0\Shopping.Models.deps.json
+H:\Project\MS\AspnetMicroservices\src\ApiGateways\Shopping.Models\bin\Debug\net6.0\Shopping.Models.dll
+H:\Project\MS\AspnetMicroservices\src\ApiGateways\Shopping.Models\bin\Debug\net6.0\ref\Shopping.Models.dll
+H:\Project\MS\AspnetMicroservices\src\ApiGateways\Shopping.Models\bin\Debug\net6.0\Shopping.Models.pdb
+H:\Project\MS\AspnetMicroservices\src\ApiGateways\Shopping.Models\obj\Debug\net6.0\Shopping.Models.GeneratedMSBuildEditorConfig.editorconfig
+H:\Project\MS\AspnetMicroservices\src\ApiGateways\Shopping.Models\obj\Debug\net6.0\Shopping.Models.AssemblyInfoInputs.cache
+H:\Project\MS\AspnetMicroservices\src\ApiGateways\Shopping.Models\obj\Debug\net6.0\Shopping.Models.AssemblyInfo.cs
+H:\Project\MS\AspnetMicroservices\src\ApiGateways\Shopping.Models\obj\Debug\net6.0\Shopping.Models.csproj.CoreCompileInputs.cache
+H:\Project\MS\AspnetMicroservices\src\ApiGateways\Shopping.Models\obj\Debug\net6.0\Shopping.Models.dll
+H:\Project\MS\AspnetMicroservices\src\ApiGateways\Shopping.Models\obj\Debug\net6.0\ref\Shopping.Models.dll
+H:\Project\MS\AspnetMicroservices\src\ApiGateways\Shopping.Models\obj\Debug\net6.0\Shopping.Models.pdb
