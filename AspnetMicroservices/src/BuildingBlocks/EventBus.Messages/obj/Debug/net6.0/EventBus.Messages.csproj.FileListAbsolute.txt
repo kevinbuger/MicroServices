@@ -2,7 +2,6 @@ H:\Project\MS\AspnetMicroservices\src\BuildingBlocks\EventBus.Messages\bin\Debug
 H:\Project\MS\AspnetMicroservices\src\BuildingBlocks\EventBus.Messages\bin\Debug\net6.0\EventBus.Messages.dll
 H:\Project\MS\AspnetMicroservices\src\BuildingBlocks\EventBus.Messages\bin\Debug\net6.0\ref\EventBus.Messages.dll
 H:\Project\MS\AspnetMicroservices\src\BuildingBlocks\EventBus.Messages\bin\Debug\net6.0\EventBus.Messages.pdb
-H:\Project\MS\AspnetMicroservices\src\BuildingBlocks\EventBus.Messages\obj\Debug\net6.0\EventBus.Messages.csproj.AssemblyReference.cache
 H:\Project\MS\AspnetMicroservices\src\BuildingBlocks\EventBus.Messages\obj\Debug\net6.0\EventBus.Messages.GeneratedMSBuildEditorConfig.editorconfig
 H:\Project\MS\AspnetMicroservices\src\BuildingBlocks\EventBus.Messages\obj\Debug\net6.0\EventBus.Messages.AssemblyInfoInputs.cache
 H:\Project\MS\AspnetMicroservices\src\BuildingBlocks\EventBus.Messages\obj\Debug\net6.0\EventBus.Messages.AssemblyInfo.cs

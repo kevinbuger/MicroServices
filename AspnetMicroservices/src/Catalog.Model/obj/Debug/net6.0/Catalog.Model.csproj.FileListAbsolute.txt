@@ -2,7 +2,6 @@ H:\Project\MS\AspnetMicroservices\src\Catalog.Model\bin\Debug\net6.0\Catalog.Mod
 H:\Project\MS\AspnetMicroservices\src\Catalog.Model\bin\Debug\net6.0\Catalog.Model.dll
 H:\Project\MS\AspnetMicroservices\src\Catalog.Model\bin\Debug\net6.0\ref\Catalog.Model.dll
 H:\Project\MS\AspnetMicroservices\src\Catalog.Model\bin\Debug\net6.0\Catalog.Model.pdb
-H:\Project\MS\AspnetMicroservices\src\Catalog.Model\obj\Debug\net6.0\Catalog.Model.csproj.AssemblyReference.cache
 H:\Project\MS\AspnetMicroservices\src\Catalog.Model\obj\Debug\net6.0\Catalog.Model.GeneratedMSBuildEditorConfig.editorconfig
 H:\Project\MS\AspnetMicroservices\src\Catalog.Model\obj\Debug\net6.0\Catalog.Model.AssemblyInfoInputs.cache
 H:\Project\MS\AspnetMicroservices\src\Catalog.Model\obj\Debug\net6.0\Catalog.Model.AssemblyInfo.cs

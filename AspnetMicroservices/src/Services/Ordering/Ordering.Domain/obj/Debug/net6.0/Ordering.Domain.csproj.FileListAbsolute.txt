@@ -9,4 +9,3 @@ H:\Project\MS\AspnetMicroservices\src\Services\Ordering\Ordering.Domain\obj\Debu
 H:\Project\MS\AspnetMicroservices\src\Services\Ordering\Ordering.Domain\obj\Debug\net6.0\Ordering.Domain.dll
 H:\Project\MS\AspnetMicroservices\src\Services\Ordering\Ordering.Domain\obj\Debug\net6.0\ref\Ordering.Domain.dll
 H:\Project\MS\AspnetMicroservices\src\Services\Ordering\Ordering.Domain\obj\Debug\net6.0\Ordering.Domain.pdb
-H:\Project\MS\AspnetMicroservices\src\Services\Ordering\Ordering.Domain\obj\Debug\net6.0\Ordering.Domain.csproj.AssemblyReference.cache

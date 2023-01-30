@@ -8,9 +8,12 @@ services:
     depends_on:
       basketdb:
         condition: service_started
+      rabbitmq:
+        condition: service_started
     environment:
       ASPNETCORE_ENVIRONMENT: Development
       CacheSettings:ConnectionString: basketdb:6379
+      EventBusSettings:HostAddress: amqp://guest:guest@rabbitmq:5672
       GrpcSettings:DiscountUrl: http://discount.grpc
     image: basketapi
     networks:
@@ -126,6 +129,30 @@ services:
       source: postgres_data
       target: /var/lib/postgresql/data
       volume: {}
+  ocelotapigw:
+    build:
+      context: H:\Project\MS\AspnetMicroservices\src
+      dockerfile: ApiGateways/OcelotApiGw/Dockerfile
+    container_name: ocelotapigw
+    depends_on:
+      basket.api:
+        condition: service_started
+      catalog.api:
+        condition: service_started
+      discount.api:
+        condition: service_started
+      ordering.api:
+        condition: service_started
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: ocelotapigw
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 80
+      published: "8010"
+      protocol: tcp
   orderdb:
     container_name: orderdb
     environment:
@@ -148,10 +175,13 @@ services:
     depends_on:
       orderdb:
         condition: service_started
+      rabbitmq:
+        condition: service_started
     environment:
       ASPNETCORE_ENVIRONMENT: Development
       ConnectionStrings:OrderingConnectionString: Server=orderdb;Database=OrderDb;User
         Id=sa;Password=SwN12345678;TrustServerCertificate=True;
+      EventBusSettings:HostAddress: amqp://guest:guest@rabbitmq:5672
     image: orderingapi
     networks:
       default: null

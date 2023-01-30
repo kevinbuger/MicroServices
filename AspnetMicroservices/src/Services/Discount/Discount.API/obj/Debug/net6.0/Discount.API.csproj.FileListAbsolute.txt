@@ -18,7 +18,6 @@ H:\Project\MS\AspnetMicroservices\src\Services\Discount\Discount.API\bin\Debug\n
 H:\Project\MS\AspnetMicroservices\src\Services\Discount\Discount.API\bin\Debug\net6.0\Discount.Repositories.dll
 H:\Project\MS\AspnetMicroservices\src\Services\Discount\Discount.API\bin\Debug\net6.0\Discount.Repositories.pdb
 H:\Project\MS\AspnetMicroservices\src\Services\Discount\Discount.API\bin\Debug\net6.0\Discount.Model.pdb
-H:\Project\MS\AspnetMicroservices\src\Services\Discount\Discount.API\obj\Debug\net6.0\Discount.API.csproj.AssemblyReference.cache
 H:\Project\MS\AspnetMicroservices\src\Services\Discount\Discount.API\obj\Debug\net6.0\Discount.API.GeneratedMSBuildEditorConfig.editorconfig
 H:\Project\MS\AspnetMicroservices\src\Services\Discount\Discount.API\obj\Debug\net6.0\Discount.API.AssemblyInfoInputs.cache
 H:\Project\MS\AspnetMicroservices\src\Services\Discount\Discount.API\obj\Debug\net6.0\Discount.API.AssemblyInfo.cs
