@@ -123,3 +123,12 @@ H:\Project\MS\AspnetMicroservices\src\bin\Debug\System.Security.Cryptography.Pro
 H:\Project\MS\AspnetMicroservices\src\bin\Debug\Microsoft.AspNetCore.JsonPatch.dll
 H:\Project\MS\AspnetMicroservices\src\bin\Debug\Newtonsoft.Json.Bson.dll
 H:\Project\MS\AspnetMicroservices\src\bin\Debug\OcelotApiGw.pdb
+H:\Project\MS\AspnetMicroservices\src\bin\Debug\Shopping.Aggregator.deps.json
+H:\Project\MS\AspnetMicroservices\src\bin\Debug\Shopping.Aggregator.runtimeconfig.json
+H:\Project\MS\AspnetMicroservices\src\bin\Debug\Shopping.Aggregator.exe
+H:\Project\MS\AspnetMicroservices\src\bin\Debug\Shopping.Aggregator.dll
+H:\Project\MS\AspnetMicroservices\src\bin\Debug\Shopping.Services.dll
+H:\Project\MS\AspnetMicroservices\src\bin\Debug\Shopping.Models.dll
+H:\Project\MS\AspnetMicroservices\src\bin\Debug\Shopping.Aggregator.pdb
+H:\Project\MS\AspnetMicroservices\src\bin\Debug\Shopping.Services.pdb
+H:\Project\MS\AspnetMicroservices\src\bin\Debug\Shopping.Models.pdb

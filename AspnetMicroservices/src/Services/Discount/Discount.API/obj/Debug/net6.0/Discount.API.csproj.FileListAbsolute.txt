@@ -32,3 +32,4 @@ H:\Project\MS\AspnetMicroservices\src\Services\Discount\Discount.API\obj\Debug\n
 H:\Project\MS\AspnetMicroservices\src\Services\Discount\Discount.API\obj\Debug\net6.0\ref\Discount.API.dll
 H:\Project\MS\AspnetMicroservices\src\Services\Discount\Discount.API\obj\Debug\net6.0\Discount.API.pdb
 H:\Project\MS\AspnetMicroservices\src\Services\Discount\Discount.API\obj\Debug\net6.0\Discount.API.genruntimeconfig.cache
+H:\Project\MS\AspnetMicroservices\src\Services\Discount\Discount.API\obj\Debug\net6.0\Discount.API.csproj.AssemblyReference.cache
