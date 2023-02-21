@@ -14,14 +14,14 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddApplicationServices();
 builder.Services.AddInfrastructureServices(builder.Configuration);
-
-builder.Services.AddControllers();
+ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddAutoMapper(typeof(Program).Assembly);
 builder.Services.AddScoped<BasketCheckoutConsumer>();
+//builder.Services.AddSingleton<IHostedService, BasketKafkaCheckoutConsumer>();
 // Add MassTransit Configuration
 builder.Services.AddMassTransit(config => {
 
@@ -34,7 +34,7 @@ builder.Services.AddMassTransit(config => {
         });
     }); 
 });
- 
+
 
 
 var app = builder.Build();

@@ -132,3 +132,10 @@ H:\Project\MS\AspnetMicroservices\src\bin\Debug\Shopping.Models.dll
 H:\Project\MS\AspnetMicroservices\src\bin\Debug\Shopping.Aggregator.pdb
 H:\Project\MS\AspnetMicroservices\src\bin\Debug\Shopping.Services.pdb
 H:\Project\MS\AspnetMicroservices\src\bin\Debug\Shopping.Models.pdb
+H:\Project\MS\AspnetMicroservices\src\bin\Debug\AspnetRunBasics.dll
+H:\Project\MS\AspnetMicroservices\src\bin\Debug\AspnetRunBasics.pdb
+H:\Project\MS\AspnetMicroservices\src\bin\Debug\AspnetRunBasics.deps.json
+H:\Project\MS\AspnetMicroservices\src\bin\Debug\AspnetRunBasics.runtimeconfig.json
+H:\Project\MS\AspnetMicroservices\src\bin\Debug\AspnetRunBasics.staticwebassets.runtime.json
+H:\Project\MS\AspnetMicroservices\src\bin\Debug\AspnetRunBasics.exe
+H:\Project\MS\AspnetMicroservices\src\bin\Debug\Confluent.Kafka.dll

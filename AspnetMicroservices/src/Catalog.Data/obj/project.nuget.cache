@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "NM7mV86pMbIWHPGMmkxSoFfpEq4o4cKZAAKeZWMhkTV/TIDA2smXq2ALOMZMMK8Z0vU6ZSdLSVXD08/sZcMujA==",
+  "dgSpecHash": "yKtC5bBSt2KRbJAwgHTua3qyRgIhu5Miznn5wAInJkPJBIZxe0uoBU53uo9t19l5lWWzRTbw/LJFcpdR9K8DgA==",
   "success": true,
   "projectFilePath": "H:\\Project\\MS\\AspnetMicroservices\\src\\Catalog.Data\\Catalog.Data.csproj",
   "expectedPackageFiles": [

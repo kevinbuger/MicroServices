@@ -557,7 +557,7 @@
         "net6.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {}
+        "G:\\TFS1400\\OxinProject.Plugin.ChangeAccount\\Source\\packages": {}
       },
       "frameworks": {
         "net6.0": {

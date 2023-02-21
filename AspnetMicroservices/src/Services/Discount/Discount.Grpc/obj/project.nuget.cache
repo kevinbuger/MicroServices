@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Udi1N3QoCTqP1vuOzxkl6NSQf8EYA/smQIc23xxv+f4lwODO0i6Mz75/soADHYn01didCbTJVVw3xKotIqSqKw==",
+  "dgSpecHash": "lwz7S95ChDxXX18oXL5COny+NhSfNv9vUywZtV7QZ+tbobroX1twtEgUBcrA2C6dmsw27W5bKMHhJTf4MofZSQ==",
   "success": true,
   "projectFilePath": "H:\\Project\\MS\\AspnetMicroservices\\src\\Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj",
   "expectedPackageFiles": [

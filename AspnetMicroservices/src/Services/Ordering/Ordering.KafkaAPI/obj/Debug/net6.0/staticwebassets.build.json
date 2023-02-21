@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "95sjXXD06N4AleUX1SprUOBLv3nLStNqrqhvMub4OWQ=",
+  "Source": "Ordering.KafkaAPI",
+  "BasePath": "_content/Ordering.KafkaAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

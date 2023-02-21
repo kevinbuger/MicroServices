@@ -1,5 +1,32 @@
 name: dockercompose187095036155999291
 services:
+  aspnetrunbasics:
+    build:
+      context: H:\Project\MS\AspnetMicroservices\src
+      dockerfile: WebApps/AspnetRunBasics/Dockerfile
+    container_name: aspnetrunbasics
+    depends_on:
+      basket.api:
+        condition: service_started
+      catalog.api:
+        condition: service_started
+      discount.api:
+        condition: service_started
+      ocelotapigw:
+        condition: service_started
+      ordering.api:
+        condition: service_started
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ApiSettings:GatewayAddress: http://ocelotapigw
+    image: aspnetrunbasics
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 80
+      published: "8006"
+      protocol: tcp
   basket.api:
     build:
       context: H:\Project\MS\AspnetMicroservices\src
@@ -129,6 +156,25 @@ services:
       source: postgres_data
       target: /var/lib/postgresql/data
       volume: {}
+  kafka:
+    depends_on:
+      zookeeper:
+        condition: service_started
+    environment:
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka:9092,PLAINTEXT_HOST://localhost:29092
+      KAFKA_BROKER_ID: "1"
+      KAFKA_INTER_BROKER_LISTENER_NAME: PLAINTEXT
+      KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: PLAINTEXT:PLAINTEXT,PLAINTEXT_HOST:PLAINTEXT
+      KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: "1"
+      KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
+    image: confluentinc/cp-kafka:latest
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 29092
+      published: "29092"
+      protocol: tcp
   ocelotapigw:
     build:
       context: H:\Project\MS\AspnetMicroservices\src
@@ -273,6 +319,18 @@ services:
     - mode: ingress
       target: 80
       published: "8005"
+      protocol: tcp
+  zookeeper:
+    environment:
+      ZOOKEEPER_CLIENT_PORT: "2181"
+      ZOOKEEPER_TICK_TIME: "2000"
+    image: confluentinc/cp-zookeeper:latest
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 2181
+      published: "22181"
       protocol: tcp
 networks:
   default:

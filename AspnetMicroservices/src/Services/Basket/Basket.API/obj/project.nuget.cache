@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "GkZTUYulfq7MiSe7GYoLSN7jJC8YVEBWP7R1FwgXqozc2k3mhCaNnb/x6aof0qSNfgv3f4bVShy87vrbBPymNA==",
+  "dgSpecHash": "i6qNGVrSiMpeqpZSgVCzyNLJvuK/szjihKlZ/3MWGQNuJeYTPRy8Wkk52fjDySUHNr6ttztK6W+SS9LGcc+4tg==",
   "success": true,
   "projectFilePath": "H:\\Project\\MS\\AspnetMicroservices\\src\\Services\\Basket\\Basket.API\\Basket.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\k.deyjoori\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\k.deyjoori\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "C:\\Users\\k.deyjoori\\.nuget\\packages\\confluent.kafka\\2.0.2\\confluent.kafka.2.0.2.nupkg.sha512",
     "C:\\Users\\k.deyjoori\\.nuget\\packages\\google.protobuf\\3.21.5\\google.protobuf.3.21.5.nupkg.sha512",
     "C:\\Users\\k.deyjoori\\.nuget\\packages\\grpc.aspnetcore\\2.51.0\\grpc.aspnetcore.2.51.0.nupkg.sha512",
     "C:\\Users\\k.deyjoori\\.nuget\\packages\\grpc.aspnetcore.server\\2.51.0\\grpc.aspnetcore.server.2.51.0.nupkg.sha512",
@@ -15,6 +16,7 @@
     "C:\\Users\\k.deyjoori\\.nuget\\packages\\grpc.net.clientfactory\\2.51.0\\grpc.net.clientfactory.2.51.0.nupkg.sha512",
     "C:\\Users\\k.deyjoori\\.nuget\\packages\\grpc.net.common\\2.51.0\\grpc.net.common.2.51.0.nupkg.sha512",
     "C:\\Users\\k.deyjoori\\.nuget\\packages\\grpc.tools\\2.51.0\\grpc.tools.2.51.0.nupkg.sha512",
+    "C:\\Users\\k.deyjoori\\.nuget\\packages\\librdkafka.redist\\2.0.2\\librdkafka.redist.2.0.2.nupkg.sha512",
     "C:\\Users\\k.deyjoori\\.nuget\\packages\\masstransit\\8.0.11\\masstransit.8.0.11.nupkg.sha512",
     "C:\\Users\\k.deyjoori\\.nuget\\packages\\masstransit.abstractions\\8.0.11\\masstransit.abstractions.8.0.11.nupkg.sha512",
     "C:\\Users\\k.deyjoori\\.nuget\\packages\\masstransit.aspnetcore\\7.3.1\\masstransit.aspnetcore.7.3.1.nupkg.sha512",

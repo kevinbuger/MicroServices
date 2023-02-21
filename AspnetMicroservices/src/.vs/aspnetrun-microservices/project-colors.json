@@ -100,7 +100,17 @@
       "ProjectGuid": "1f5de1cb-0a46-4dc7-be41-8ff14cf6cf10",
       "DisplayName": "OcelotApiGw",
       "ColorIndex": 2
+    },
+    "2f049b89-25f5-431e-bea1-82c801efc053": {
+      "ProjectGuid": "2f049b89-25f5-431e-bea1-82c801efc053",
+      "DisplayName": "Shopping.Aggregator",
+      "ColorIndex": 3
+    },
+    "75f3a1a4-3190-421b-96f1-0b85475b93e8": {
+      "ProjectGuid": "75f3a1a4-3190-421b-96f1-0b85475b93e8",
+      "DisplayName": "AspnetRunBasics",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 5
 }

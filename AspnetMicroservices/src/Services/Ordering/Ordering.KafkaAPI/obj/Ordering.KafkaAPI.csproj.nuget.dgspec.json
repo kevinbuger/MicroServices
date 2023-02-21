@@ -1,0 +1,304 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\Project\\MS\\AspnetMicroservices\\src\\Services\\Ordering\\Ordering.KafkaAPI\\Ordering.KafkaAPI.csproj": {}
+  },
+  "projects": {
+    "H:\\Project\\MS\\AspnetMicroservices\\src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Project\\MS\\AspnetMicroservices\\src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj",
+        "projectName": "Ordering.Application",
+        "projectPath": "H:\\Project\\MS\\AspnetMicroservices\\src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj",
+        "packagesPath": "C:\\Users\\k.deyjoori\\.nuget\\packages\\",
+        "outputPath": "H:\\Project\\MS\\AspnetMicroservices\\src\\Services\\Ordering\\Ordering.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\k.deyjoori\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "G:\\TFS1400\\OxinProject.Plugin.ChangeAccount\\Source\\packages": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "H:\\Project\\MS\\AspnetMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj": {
+                "projectPath": "H:\\Project\\MS\\AspnetMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.4.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.4.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\Project\\MS\\AspnetMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Project\\MS\\AspnetMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj",
+        "projectName": "Ordering.Domain",
+        "projectPath": "H:\\Project\\MS\\AspnetMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj",
+        "packagesPath": "C:\\Users\\k.deyjoori\\.nuget\\packages\\",
+        "outputPath": "H:\\Project\\MS\\AspnetMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\k.deyjoori\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "G:\\TFS1400\\OxinProject.Plugin.ChangeAccount\\Source\\packages": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\Project\\MS\\AspnetMicroservices\\src\\Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Project\\MS\\AspnetMicroservices\\src\\Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj",
+        "projectName": "Ordering.Infrastructure",
+        "projectPath": "H:\\Project\\MS\\AspnetMicroservices\\src\\Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\k.deyjoori\\.nuget\\packages\\",
+        "outputPath": "H:\\Project\\MS\\AspnetMicroservices\\src\\Services\\Ordering\\Ordering.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\k.deyjoori\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "G:\\TFS1400\\OxinProject.Plugin.ChangeAccount\\Source\\packages": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "H:\\Project\\MS\\AspnetMicroservices\\src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj": {
+                "projectPath": "H:\\Project\\MS\\AspnetMicroservices\\src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "SendGrid": {
+              "target": "Package",
+              "version": "[9.28.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\Project\\MS\\AspnetMicroservices\\src\\Services\\Ordering\\Ordering.KafkaAPI\\Ordering.KafkaAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Project\\MS\\AspnetMicroservices\\src\\Services\\Ordering\\Ordering.KafkaAPI\\Ordering.KafkaAPI.csproj",
+        "projectName": "Ordering.KafkaAPI",
+        "projectPath": "H:\\Project\\MS\\AspnetMicroservices\\src\\Services\\Ordering\\Ordering.KafkaAPI\\Ordering.KafkaAPI.csproj",
+        "packagesPath": "C:\\Users\\k.deyjoori\\.nuget\\packages\\",
+        "outputPath": "H:\\Project\\MS\\AspnetMicroservices\\src\\Services\\Ordering\\Ordering.KafkaAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\k.deyjoori\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "G:\\TFS1400\\OxinProject.Plugin.ChangeAccount\\Source\\packages": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "H:\\Project\\MS\\AspnetMicroservices\\src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj": {
+                "projectPath": "H:\\Project\\MS\\AspnetMicroservices\\src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj"
+              },
+              "H:\\Project\\MS\\AspnetMicroservices\\src\\Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj": {
+                "projectPath": "H:\\Project\\MS\\AspnetMicroservices\\src\\Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Confluent.Kafka": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

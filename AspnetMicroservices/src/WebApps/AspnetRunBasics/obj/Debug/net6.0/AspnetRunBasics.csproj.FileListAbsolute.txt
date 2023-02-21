@@ -21,3 +21,4 @@ H:\Project\MS\AspnetMicroservices\src\WebApps\AspnetRunBasics\obj\Debug\net6.0\A
 H:\Project\MS\AspnetMicroservices\src\WebApps\AspnetRunBasics\obj\Debug\net6.0\ref\AspnetRunBasics.dll
 H:\Project\MS\AspnetMicroservices\src\WebApps\AspnetRunBasics\obj\Debug\net6.0\AspnetRunBasics.pdb
 H:\Project\MS\AspnetMicroservices\src\WebApps\AspnetRunBasics\obj\Debug\net6.0\AspnetRunBasics.genruntimeconfig.cache
+H:\Project\MS\AspnetMicroservices\src\WebApps\AspnetRunBasics\obj\Debug\net6.0\AspnetRunBasics.csproj.AssemblyReference.cache

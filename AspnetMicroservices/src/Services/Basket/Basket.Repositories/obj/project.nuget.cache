@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ejaFRpPwFbc3AzCodqeITPj7i2ZZIq7PFEyZWRohJp4RjKHH/Lzf+uCrAg+6KK1lhJyvmFcIkbhiyreYSZU1Fg==",
+  "dgSpecHash": "DGVYDjLCzqNIEs9rY1ARnMN8rFvmiHKJsOlqbVliQxHsgeomLmuzS7ERQ8dGeabs9O3Iri7FXq5wD5HHd0QJwA==",
   "success": true,
   "projectFilePath": "H:\\Project\\MS\\AspnetMicroservices\\src\\Services\\Basket\\Basket.Repositories\\Basket.Repositories.csproj",
   "expectedPackageFiles": [

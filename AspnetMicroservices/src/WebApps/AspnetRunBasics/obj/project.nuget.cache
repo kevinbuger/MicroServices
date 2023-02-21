@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "60urvFWX3Mkm/UOUSqC+rFW91Ot6Adhx8KR2+zKUC+/ab2i9639Egjkb/292arwlc2zsMVNnZvldXVQATrQ7Cg==",
+  "dgSpecHash": "2a53UtTivUi1X4R83aSevMF6HPV39d95epetaoY9M3Rq27iKRmlcQQFD1MIjo1CfkeXl9GFCr16hBMHE4r1EXQ==",
   "success": true,
   "projectFilePath": "H:\\Project\\MS\\AspnetMicroservices\\src\\WebApps\\AspnetRunBasics\\AspnetRunBasics.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\k.deyjoori\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
   "logs": []
 }

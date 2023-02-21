@@ -1,0 +1,899 @@
+﻿++Solution 'aspnetrun-microservices' ‎(22 of 22 projects)
+i:{00000000-0000-0000-0000-000000000000}:aspnetrun-microservices.sln
+++docker-compose
+i:{00000000-0000-0000-0000-000000000000}:docker-compose
+++.dockerignore
+i:{68559e41-f163-4bdb-91cd-cd2ae9f4630b}:h:\project\ms\aspnetmicroservices\src\.dockerignore
+++docker-compose.yml
+i:{68559e41-f163-4bdb-91cd-cd2ae9f4630b}:h:\project\ms\aspnetmicroservices\src\docker-compose.yml
+++docker-compose.override.yml
+i:{68559e41-f163-4bdb-91cd-cd2ae9f4630b}:h:\project\ms\aspnetmicroservices\src\docker-compose.override.yml
+++BuildingBlocks
+i:{00000000-0000-0000-0000-000000000000}:BuildingBlocks
+++EventBus.Messages
+i:{f76fea06-1534-428d-918a-3af29fc80e9f}:EventBus.Messages
+i:{b4ac0101-cb49-4a52-9063-3a78897be783}:h:\project\ms\aspnetmicroservices\src\buildingblocks\eventbus.messages\eventbus.messages.csproj
+i:{87139596-371c-494f-8ea0-b4896edc92d6}:h:\project\ms\aspnetmicroservices\src\buildingblocks\eventbus.messages\eventbus.messages.csproj
+++Dependencies
+i:{39538c41-f18a-4f2c-b4da-a5062ac0bb27}:>2752
+i:{1f5de1cb-0a46-4dc7-be41-8ff14cf6cf10}:>6456
+i:{2f049b89-25f5-431e-bea1-82c801efc053}:>6442
+i:{57832d49-8515-4aba-add3-ecacd1425e03}:>3370
+i:{3e58f89c-8248-420e-a789-51b661ddae37}:>3371
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:>6441
+i:{53915daf-1977-4bb2-ac92-586c9f17806a}:>6448
+i:{b86c2519-59a1-40fa-81b8-1f0499e5e2de}:>685
+i:{4cec7d5e-0147-40e3-a0f3-56722dc5f0a2}:>684
+i:{2a1169ba-8d2c-4faa-9d49-3d6e26961d88}:>683
+i:{b4ac0101-cb49-4a52-9063-3a78897be783}:>6460
+i:{7e836fd1-5761-4a66-b6a7-e17d110535f2}:>682
+i:{591ec875-1cb6-414c-aa83-762aac7d4eaf}:>1700
+i:{dee3496f-700b-450e-9447-301ae0d14dbc}:>6455
+i:{e8ed3e5a-959d-4d69-b3eb-2e75911ab746}:>1263
+i:{92981f90-4561-4eb0-af43-b72fa83cd6c5}:>2432
+i:{7d9b1831-0cfd-461f-9285-1565139eb4ef}:>6444
+i:{87139596-371c-494f-8ea0-b4896edc92d6}:>6459
+i:{bda3a7be-a5fb-489e-be65-10cf6ff85792}:>2543
+i:{5d3ad8f2-dd69-4c3f-aea2-722100e1069d}:>2906
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:>2829
+++Common
+i:{39538c41-f18a-4f2c-b4da-a5062ac0bb27}:h:\project\ms\aspnetmicroservices\src\buildingblocks\eventbus.messages\common\
+i:{bda3a7be-a5fb-489e-be65-10cf6ff85792}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.domain\common\
+++Events
+i:{39538c41-f18a-4f2c-b4da-a5062ac0bb27}:h:\project\ms\aspnetmicroservices\src\buildingblocks\eventbus.messages\events\
+++Analyzers
+i:{39538c41-f18a-4f2c-b4da-a5062ac0bb27}:analyzers
+i:{1f5de1cb-0a46-4dc7-be41-8ff14cf6cf10}:analyzers
+i:{2f049b89-25f5-431e-bea1-82c801efc053}:analyzers
+i:{57832d49-8515-4aba-add3-ecacd1425e03}:analyzers
+i:{3e58f89c-8248-420e-a789-51b661ddae37}:analyzers
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:analyzers
+i:{53915daf-1977-4bb2-ac92-586c9f17806a}:analyzers
+i:{b86c2519-59a1-40fa-81b8-1f0499e5e2de}:analyzers
+i:{4cec7d5e-0147-40e3-a0f3-56722dc5f0a2}:analyzers
+i:{2a1169ba-8d2c-4faa-9d49-3d6e26961d88}:analyzers
+i:{b4ac0101-cb49-4a52-9063-3a78897be783}:analyzers
+i:{7e836fd1-5761-4a66-b6a7-e17d110535f2}:analyzers
+i:{591ec875-1cb6-414c-aa83-762aac7d4eaf}:analyzers
+i:{dee3496f-700b-450e-9447-301ae0d14dbc}:analyzers
+i:{e8ed3e5a-959d-4d69-b3eb-2e75911ab746}:analyzers
+i:{92981f90-4561-4eb0-af43-b72fa83cd6c5}:analyzers
+i:{7d9b1831-0cfd-461f-9285-1565139eb4ef}:analyzers
+i:{87139596-371c-494f-8ea0-b4896edc92d6}:analyzers
+i:{bda3a7be-a5fb-489e-be65-10cf6ff85792}:analyzers
+i:{5d3ad8f2-dd69-4c3f-aea2-722100e1069d}:analyzers
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:analyzers
+++Frameworks
+i:{39538c41-f18a-4f2c-b4da-a5062ac0bb27}:frameworks
+i:{1f5de1cb-0a46-4dc7-be41-8ff14cf6cf10}:frameworks
+i:{2f049b89-25f5-431e-bea1-82c801efc053}:frameworks
+i:{57832d49-8515-4aba-add3-ecacd1425e03}:frameworks
+i:{3e58f89c-8248-420e-a789-51b661ddae37}:frameworks
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:frameworks
+i:{53915daf-1977-4bb2-ac92-586c9f17806a}:frameworks
+i:{b86c2519-59a1-40fa-81b8-1f0499e5e2de}:frameworks
+i:{4cec7d5e-0147-40e3-a0f3-56722dc5f0a2}:frameworks
+i:{2a1169ba-8d2c-4faa-9d49-3d6e26961d88}:frameworks
+i:{b4ac0101-cb49-4a52-9063-3a78897be783}:frameworks
+i:{7e836fd1-5761-4a66-b6a7-e17d110535f2}:frameworks
+i:{591ec875-1cb6-414c-aa83-762aac7d4eaf}:frameworks
+i:{dee3496f-700b-450e-9447-301ae0d14dbc}:frameworks
+i:{e8ed3e5a-959d-4d69-b3eb-2e75911ab746}:frameworks
+i:{92981f90-4561-4eb0-af43-b72fa83cd6c5}:frameworks
+i:{7d9b1831-0cfd-461f-9285-1565139eb4ef}:frameworks
+i:{87139596-371c-494f-8ea0-b4896edc92d6}:frameworks
+i:{bda3a7be-a5fb-489e-be65-10cf6ff85792}:frameworks
+i:{5d3ad8f2-dd69-4c3f-aea2-722100e1069d}:frameworks
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:frameworks
+++EventBusConstants.cs
+i:{39538c41-f18a-4f2c-b4da-a5062ac0bb27}:h:\project\ms\aspnetmicroservices\src\buildingblocks\eventbus.messages\common\eventbusconstants.cs
+++BasketCheckoutEvent.cs
+i:{39538c41-f18a-4f2c-b4da-a5062ac0bb27}:h:\project\ms\aspnetmicroservices\src\buildingblocks\eventbus.messages\events\basketcheckoutevent.cs
+++IntegrationBaseEvent.cs
+i:{39538c41-f18a-4f2c-b4da-a5062ac0bb27}:h:\project\ms\aspnetmicroservices\src\buildingblocks\eventbus.messages\events\integrationbaseevent.cs
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{39538c41-f18a-4f2c-b4da-a5062ac0bb27}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{1f5de1cb-0a46-4dc7-be41-8ff14cf6cf10}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{2f049b89-25f5-431e-bea1-82c801efc053}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{57832d49-8515-4aba-add3-ecacd1425e03}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{3e58f89c-8248-420e-a789-51b661ddae37}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{53915daf-1977-4bb2-ac92-586c9f17806a}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{b86c2519-59a1-40fa-81b8-1f0499e5e2de}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{4cec7d5e-0147-40e3-a0f3-56722dc5f0a2}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{2a1169ba-8d2c-4faa-9d49-3d6e26961d88}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{b4ac0101-cb49-4a52-9063-3a78897be783}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{7e836fd1-5761-4a66-b6a7-e17d110535f2}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{591ec875-1cb6-414c-aa83-762aac7d4eaf}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{dee3496f-700b-450e-9447-301ae0d14dbc}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{e8ed3e5a-959d-4d69-b3eb-2e75911ab746}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{92981f90-4561-4eb0-af43-b72fa83cd6c5}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{7d9b1831-0cfd-461f-9285-1565139eb4ef}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{87139596-371c-494f-8ea0-b4896edc92d6}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{bda3a7be-a5fb-489e-be65-10cf6ff85792}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{5d3ad8f2-dd69-4c3f-aea2-722100e1069d}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{39538c41-f18a-4f2c-b4da-a5062ac0bb27}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{1f5de1cb-0a46-4dc7-be41-8ff14cf6cf10}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{2f049b89-25f5-431e-bea1-82c801efc053}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{57832d49-8515-4aba-add3-ecacd1425e03}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{3e58f89c-8248-420e-a789-51b661ddae37}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{53915daf-1977-4bb2-ac92-586c9f17806a}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{b86c2519-59a1-40fa-81b8-1f0499e5e2de}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{4cec7d5e-0147-40e3-a0f3-56722dc5f0a2}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{2a1169ba-8d2c-4faa-9d49-3d6e26961d88}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{b4ac0101-cb49-4a52-9063-3a78897be783}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{7e836fd1-5761-4a66-b6a7-e17d110535f2}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{591ec875-1cb6-414c-aa83-762aac7d4eaf}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{dee3496f-700b-450e-9447-301ae0d14dbc}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{e8ed3e5a-959d-4d69-b3eb-2e75911ab746}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{92981f90-4561-4eb0-af43-b72fa83cd6c5}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{7d9b1831-0cfd-461f-9285-1565139eb4ef}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{87139596-371c-494f-8ea0-b4896edc92d6}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{bda3a7be-a5fb-489e-be65-10cf6ff85792}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{5d3ad8f2-dd69-4c3f-aea2-722100e1069d}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++System.Text.Json.SourceGeneration
+i:{39538c41-f18a-4f2c-b4da-a5062ac0bb27}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{1f5de1cb-0a46-4dc7-be41-8ff14cf6cf10}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{2f049b89-25f5-431e-bea1-82c801efc053}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{57832d49-8515-4aba-add3-ecacd1425e03}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{3e58f89c-8248-420e-a789-51b661ddae37}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{53915daf-1977-4bb2-ac92-586c9f17806a}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{b86c2519-59a1-40fa-81b8-1f0499e5e2de}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{4cec7d5e-0147-40e3-a0f3-56722dc5f0a2}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{2a1169ba-8d2c-4faa-9d49-3d6e26961d88}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{b4ac0101-cb49-4a52-9063-3a78897be783}:c:\users\k.deyjoori\.nuget\packages\system.text.json\6.0.2\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
+i:{7e836fd1-5761-4a66-b6a7-e17d110535f2}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{591ec875-1cb6-414c-aa83-762aac7d4eaf}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{dee3496f-700b-450e-9447-301ae0d14dbc}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{e8ed3e5a-959d-4d69-b3eb-2e75911ab746}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{92981f90-4561-4eb0-af43-b72fa83cd6c5}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{7d9b1831-0cfd-461f-9285-1565139eb4ef}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{87139596-371c-494f-8ea0-b4896edc92d6}:c:\users\k.deyjoori\.nuget\packages\system.text.json\7.0.0\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
+i:{bda3a7be-a5fb-489e-be65-10cf6ff85792}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{5d3ad8f2-dd69-4c3f-aea2-722100e1069d}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{39538c41-f18a-4f2c-b4da-a5062ac0bb27}:h:\project\ms\aspnetmicroservices\src\buildingblocks\eventbus.messages\microsoft.netcore.app
+i:{1f5de1cb-0a46-4dc7-be41-8ff14cf6cf10}:h:\project\ms\aspnetmicroservices\src\apigateways\ocelotapigw\microsoft.netcore.app
+i:{2f049b89-25f5-431e-bea1-82c801efc053}:h:\project\ms\aspnetmicroservices\src\apigateways\shopping.aggregator\microsoft.netcore.app
+i:{57832d49-8515-4aba-add3-ecacd1425e03}:h:\project\ms\aspnetmicroservices\src\apigateways\shopping.models\microsoft.netcore.app
+i:{3e58f89c-8248-420e-a789-51b661ddae37}:h:\project\ms\aspnetmicroservices\src\apigateways\shopping.services\microsoft.netcore.app
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\microsoft.netcore.app
+i:{53915daf-1977-4bb2-ac92-586c9f17806a}:h:\project\ms\aspnetmicroservices\src\services\catalog\catalog.api\microsoft.netcore.app
+i:{b86c2519-59a1-40fa-81b8-1f0499e5e2de}:h:\project\ms\aspnetmicroservices\src\catalog.data\microsoft.netcore.app
+i:{4cec7d5e-0147-40e3-a0f3-56722dc5f0a2}:h:\project\ms\aspnetmicroservices\src\catalog.model\microsoft.netcore.app
+i:{2a1169ba-8d2c-4faa-9d49-3d6e26961d88}:h:\project\ms\aspnetmicroservices\src\catalog.repositories\microsoft.netcore.app
+i:{b4ac0101-cb49-4a52-9063-3a78897be783}:h:\project\ms\aspnetmicroservices\src\services\basket\basket.api\microsoft.netcore.app
+i:{7e836fd1-5761-4a66-b6a7-e17d110535f2}:h:\project\ms\aspnetmicroservices\src\services\basket\basket.model\microsoft.netcore.app
+i:{591ec875-1cb6-414c-aa83-762aac7d4eaf}:h:\project\ms\aspnetmicroservices\src\services\basket\basket.repositories\microsoft.netcore.app
+i:{dee3496f-700b-450e-9447-301ae0d14dbc}:h:\project\ms\aspnetmicroservices\src\services\discount\discount.api\microsoft.netcore.app
+i:{e8ed3e5a-959d-4d69-b3eb-2e75911ab746}:h:\project\ms\aspnetmicroservices\src\services\discount\discount.model\microsoft.netcore.app
+i:{92981f90-4561-4eb0-af43-b72fa83cd6c5}:h:\project\ms\aspnetmicroservices\src\services\discount\discount.repositories\microsoft.netcore.app
+i:{7d9b1831-0cfd-461f-9285-1565139eb4ef}:h:\project\ms\aspnetmicroservices\src\services\discount\discount.grpc\microsoft.netcore.app
+i:{87139596-371c-494f-8ea0-b4896edc92d6}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.api\microsoft.netcore.app
+i:{bda3a7be-a5fb-489e-be65-10cf6ff85792}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.domain\microsoft.netcore.app
+i:{5d3ad8f2-dd69-4c3f-aea2-722100e1069d}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.infrastructure\microsoft.netcore.app
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.application\microsoft.netcore.app
+++ApiGateways
+i:{00000000-0000-0000-0000-000000000000}:ApiGateways
+++OcelotApiGw
+i:{ea419a35-7b61-4ca1-a0c5-4e5bb23c8e9d}:OcelotApiGw
+++Connected Services 
+i:{1f5de1cb-0a46-4dc7-be41-8ff14cf6cf10}:>6451
+i:{2f049b89-25f5-431e-bea1-82c801efc053}:>6463
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:>6443
+i:{53915daf-1977-4bb2-ac92-586c9f17806a}:>6449
+i:{b4ac0101-cb49-4a52-9063-3a78897be783}:>6461
+i:{dee3496f-700b-450e-9447-301ae0d14dbc}:>6453
+i:{7d9b1831-0cfd-461f-9285-1565139eb4ef}:>6446
+i:{87139596-371c-494f-8ea0-b4896edc92d6}:>6457
+++Properties
+i:{1f5de1cb-0a46-4dc7-be41-8ff14cf6cf10}:h:\project\ms\aspnetmicroservices\src\apigateways\ocelotapigw\properties\
+i:{2f049b89-25f5-431e-bea1-82c801efc053}:h:\project\ms\aspnetmicroservices\src\apigateways\shopping.aggregator\properties\
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\properties\
+i:{53915daf-1977-4bb2-ac92-586c9f17806a}:h:\project\ms\aspnetmicroservices\src\services\catalog\catalog.api\properties\
+i:{b4ac0101-cb49-4a52-9063-3a78897be783}:h:\project\ms\aspnetmicroservices\src\services\basket\basket.api\properties\
+i:{dee3496f-700b-450e-9447-301ae0d14dbc}:h:\project\ms\aspnetmicroservices\src\services\discount\discount.api\properties\
+i:{7d9b1831-0cfd-461f-9285-1565139eb4ef}:h:\project\ms\aspnetmicroservices\src\services\discount\discount.grpc\properties\
+i:{87139596-371c-494f-8ea0-b4896edc92d6}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.api\properties\
+++appsettings.json
+i:{1f5de1cb-0a46-4dc7-be41-8ff14cf6cf10}:h:\project\ms\aspnetmicroservices\src\apigateways\ocelotapigw\appsettings.json
+i:{2f049b89-25f5-431e-bea1-82c801efc053}:h:\project\ms\aspnetmicroservices\src\apigateways\shopping.aggregator\appsettings.json
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\appsettings.json
+i:{53915daf-1977-4bb2-ac92-586c9f17806a}:h:\project\ms\aspnetmicroservices\src\services\catalog\catalog.api\appsettings.json
+i:{b4ac0101-cb49-4a52-9063-3a78897be783}:h:\project\ms\aspnetmicroservices\src\services\basket\basket.api\appsettings.json
+i:{dee3496f-700b-450e-9447-301ae0d14dbc}:h:\project\ms\aspnetmicroservices\src\services\discount\discount.api\appsettings.json
+i:{7d9b1831-0cfd-461f-9285-1565139eb4ef}:h:\project\ms\aspnetmicroservices\src\services\discount\discount.grpc\appsettings.json
+i:{87139596-371c-494f-8ea0-b4896edc92d6}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.api\appsettings.json
+++Dockerfile
+i:{1f5de1cb-0a46-4dc7-be41-8ff14cf6cf10}:h:\project\ms\aspnetmicroservices\src\apigateways\ocelotapigw\dockerfile
+i:{2f049b89-25f5-431e-bea1-82c801efc053}:h:\project\ms\aspnetmicroservices\src\apigateways\shopping.aggregator\dockerfile
+i:{53915daf-1977-4bb2-ac92-586c9f17806a}:h:\project\ms\aspnetmicroservices\src\services\catalog\catalog.api\dockerfile
+i:{b4ac0101-cb49-4a52-9063-3a78897be783}:h:\project\ms\aspnetmicroservices\src\services\basket\basket.api\dockerfile
+i:{dee3496f-700b-450e-9447-301ae0d14dbc}:h:\project\ms\aspnetmicroservices\src\services\discount\discount.api\dockerfile
+i:{7d9b1831-0cfd-461f-9285-1565139eb4ef}:h:\project\ms\aspnetmicroservices\src\services\discount\discount.grpc\dockerfile
+i:{87139596-371c-494f-8ea0-b4896edc92d6}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.api\dockerfile
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\dockerfile
+++ocelot.json
+i:{1f5de1cb-0a46-4dc7-be41-8ff14cf6cf10}:h:\project\ms\aspnetmicroservices\src\apigateways\ocelotapigw\ocelot.json
+++Program.cs
+i:{1f5de1cb-0a46-4dc7-be41-8ff14cf6cf10}:h:\project\ms\aspnetmicroservices\src\apigateways\ocelotapigw\program.cs
+i:{2f049b89-25f5-431e-bea1-82c801efc053}:h:\project\ms\aspnetmicroservices\src\apigateways\shopping.aggregator\program.cs
+i:{53915daf-1977-4bb2-ac92-586c9f17806a}:h:\project\ms\aspnetmicroservices\src\services\catalog\catalog.api\program.cs
+i:{b4ac0101-cb49-4a52-9063-3a78897be783}:h:\project\ms\aspnetmicroservices\src\services\basket\basket.api\program.cs
+i:{dee3496f-700b-450e-9447-301ae0d14dbc}:h:\project\ms\aspnetmicroservices\src\services\discount\discount.api\program.cs
+i:{7d9b1831-0cfd-461f-9285-1565139eb4ef}:h:\project\ms\aspnetmicroservices\src\services\discount\discount.grpc\program.cs
+i:{87139596-371c-494f-8ea0-b4896edc92d6}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.api\program.cs
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\program.cs
+++No service dependencies discovered
+i:{1f5de1cb-0a46-4dc7-be41-8ff14cf6cf10}:>6452
+i:{2f049b89-25f5-431e-bea1-82c801efc053}:>6464
+i:{53915daf-1977-4bb2-ac92-586c9f17806a}:>6450
+i:{b4ac0101-cb49-4a52-9063-3a78897be783}:>6462
+i:{dee3496f-700b-450e-9447-301ae0d14dbc}:>6454
+i:{7d9b1831-0cfd-461f-9285-1565139eb4ef}:>6447
+i:{87139596-371c-494f-8ea0-b4896edc92d6}:>6458
+++Packages
+i:{1f5de1cb-0a46-4dc7-be41-8ff14cf6cf10}:packages
+i:{2f049b89-25f5-431e-bea1-82c801efc053}:packages
+i:{53915daf-1977-4bb2-ac92-586c9f17806a}:packages
+i:{b86c2519-59a1-40fa-81b8-1f0499e5e2de}:packages
+i:{4cec7d5e-0147-40e3-a0f3-56722dc5f0a2}:packages
+i:{b4ac0101-cb49-4a52-9063-3a78897be783}:packages
+i:{591ec875-1cb6-414c-aa83-762aac7d4eaf}:packages
+i:{dee3496f-700b-450e-9447-301ae0d14dbc}:packages
+i:{92981f90-4561-4eb0-af43-b72fa83cd6c5}:packages
+i:{7d9b1831-0cfd-461f-9285-1565139eb4ef}:packages
+i:{87139596-371c-494f-8ea0-b4896edc92d6}:packages
+i:{5d3ad8f2-dd69-4c3f-aea2-722100e1069d}:packages
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:packages
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:packages
+++launchSettings.json
+i:{1f5de1cb-0a46-4dc7-be41-8ff14cf6cf10}:h:\project\ms\aspnetmicroservices\src\apigateways\ocelotapigw\properties\launchsettings.json
+i:{2f049b89-25f5-431e-bea1-82c801efc053}:h:\project\ms\aspnetmicroservices\src\apigateways\shopping.aggregator\properties\launchsettings.json
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\properties\launchsettings.json
+i:{53915daf-1977-4bb2-ac92-586c9f17806a}:h:\project\ms\aspnetmicroservices\src\services\catalog\catalog.api\properties\launchsettings.json
+i:{b4ac0101-cb49-4a52-9063-3a78897be783}:h:\project\ms\aspnetmicroservices\src\services\basket\basket.api\properties\launchsettings.json
+i:{dee3496f-700b-450e-9447-301ae0d14dbc}:h:\project\ms\aspnetmicroservices\src\services\discount\discount.api\properties\launchsettings.json
+i:{7d9b1831-0cfd-461f-9285-1565139eb4ef}:h:\project\ms\aspnetmicroservices\src\services\discount\discount.grpc\properties\launchsettings.json
+i:{87139596-371c-494f-8ea0-b4896edc92d6}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.api\properties\launchsettings.json
+++appsettings.Development.json
+i:{1f5de1cb-0a46-4dc7-be41-8ff14cf6cf10}:h:\project\ms\aspnetmicroservices\src\apigateways\ocelotapigw\appsettings.development.json
+i:{2f049b89-25f5-431e-bea1-82c801efc053}:h:\project\ms\aspnetmicroservices\src\apigateways\shopping.aggregator\appsettings.development.json
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\appsettings.development.json
+i:{53915daf-1977-4bb2-ac92-586c9f17806a}:h:\project\ms\aspnetmicroservices\src\services\catalog\catalog.api\appsettings.development.json
+i:{b4ac0101-cb49-4a52-9063-3a78897be783}:h:\project\ms\aspnetmicroservices\src\services\basket\basket.api\appsettings.development.json
+i:{dee3496f-700b-450e-9447-301ae0d14dbc}:h:\project\ms\aspnetmicroservices\src\services\discount\discount.api\appsettings.development.json
+i:{7d9b1831-0cfd-461f-9285-1565139eb4ef}:h:\project\ms\aspnetmicroservices\src\services\discount\discount.grpc\appsettings.development.json
+i:{87139596-371c-494f-8ea0-b4896edc92d6}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.api\appsettings.development.json
+++ocelot.Development.json
+i:{1f5de1cb-0a46-4dc7-be41-8ff14cf6cf10}:h:\project\ms\aspnetmicroservices\src\apigateways\ocelotapigw\ocelot.development.json
+++ocelot.Local.json
+i:{1f5de1cb-0a46-4dc7-be41-8ff14cf6cf10}:h:\project\ms\aspnetmicroservices\src\apigateways\ocelotapigw\ocelot.local.json
+++Microsoft.AspNetCore.Analyzers
+i:{1f5de1cb-0a46-4dc7-be41-8ff14cf6cf10}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{2f049b89-25f5-431e-bea1-82c801efc053}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{53915daf-1977-4bb2-ac92-586c9f17806a}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{b4ac0101-cb49-4a52-9063-3a78897be783}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{dee3496f-700b-450e-9447-301ae0d14dbc}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{7d9b1831-0cfd-461f-9285-1565139eb4ef}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{87139596-371c-494f-8ea0-b4896edc92d6}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{1f5de1cb-0a46-4dc7-be41-8ff14cf6cf10}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{2f049b89-25f5-431e-bea1-82c801efc053}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{53915daf-1977-4bb2-ac92-586c9f17806a}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{b4ac0101-cb49-4a52-9063-3a78897be783}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{dee3496f-700b-450e-9447-301ae0d14dbc}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{7d9b1831-0cfd-461f-9285-1565139eb4ef}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{87139596-371c-494f-8ea0-b4896edc92d6}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{1f5de1cb-0a46-4dc7-be41-8ff14cf6cf10}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{2f049b89-25f5-431e-bea1-82c801efc053}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{53915daf-1977-4bb2-ac92-586c9f17806a}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{b4ac0101-cb49-4a52-9063-3a78897be783}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{dee3496f-700b-450e-9447-301ae0d14dbc}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{7d9b1831-0cfd-461f-9285-1565139eb4ef}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{87139596-371c-494f-8ea0-b4896edc92d6}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{1f5de1cb-0a46-4dc7-be41-8ff14cf6cf10}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{2f049b89-25f5-431e-bea1-82c801efc053}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{53915daf-1977-4bb2-ac92-586c9f17806a}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{b4ac0101-cb49-4a52-9063-3a78897be783}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{dee3496f-700b-450e-9447-301ae0d14dbc}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{7d9b1831-0cfd-461f-9285-1565139eb4ef}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{87139596-371c-494f-8ea0-b4896edc92d6}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{1f5de1cb-0a46-4dc7-be41-8ff14cf6cf10}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{2f049b89-25f5-431e-bea1-82c801efc053}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{53915daf-1977-4bb2-ac92-586c9f17806a}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{b4ac0101-cb49-4a52-9063-3a78897be783}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{dee3496f-700b-450e-9447-301ae0d14dbc}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{7d9b1831-0cfd-461f-9285-1565139eb4ef}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{87139596-371c-494f-8ea0-b4896edc92d6}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{1f5de1cb-0a46-4dc7-be41-8ff14cf6cf10}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+i:{2f049b89-25f5-431e-bea1-82c801efc053}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+i:{53915daf-1977-4bb2-ac92-586c9f17806a}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+i:{b4ac0101-cb49-4a52-9063-3a78897be783}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+i:{dee3496f-700b-450e-9447-301ae0d14dbc}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+i:{7d9b1831-0cfd-461f-9285-1565139eb4ef}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+i:{87139596-371c-494f-8ea0-b4896edc92d6}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.Extensions.Logging.Generators
+i:{1f5de1cb-0a46-4dc7-be41-8ff14cf6cf10}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{2f049b89-25f5-431e-bea1-82c801efc053}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{53915daf-1977-4bb2-ac92-586c9f17806a}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{b4ac0101-cb49-4a52-9063-3a78897be783}:c:\users\k.deyjoori\.nuget\packages\microsoft.extensions.logging.abstractions\7.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{dee3496f-700b-450e-9447-301ae0d14dbc}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{92981f90-4561-4eb0-af43-b72fa83cd6c5}:c:\users\k.deyjoori\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{7d9b1831-0cfd-461f-9285-1565139eb4ef}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{87139596-371c-494f-8ea0-b4896edc92d6}:c:\users\k.deyjoori\.nuget\packages\microsoft.extensions.logging.abstractions\7.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{5d3ad8f2-dd69-4c3f-aea2-722100e1069d}:c:\users\k.deyjoori\.nuget\packages\microsoft.extensions.logging.abstractions\7.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:c:\users\k.deyjoori\.nuget\packages\microsoft.extensions.logging.abstractions\7.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{1f5de1cb-0a46-4dc7-be41-8ff14cf6cf10}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{2f049b89-25f5-431e-bea1-82c801efc053}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{53915daf-1977-4bb2-ac92-586c9f17806a}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{b4ac0101-cb49-4a52-9063-3a78897be783}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{dee3496f-700b-450e-9447-301ae0d14dbc}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{7d9b1831-0cfd-461f-9285-1565139eb4ef}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{87139596-371c-494f-8ea0-b4896edc92d6}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{1f5de1cb-0a46-4dc7-be41-8ff14cf6cf10}:h:\project\ms\aspnetmicroservices\src\apigateways\ocelotapigw\microsoft.aspnetcore.app
+i:{2f049b89-25f5-431e-bea1-82c801efc053}:h:\project\ms\aspnetmicroservices\src\apigateways\shopping.aggregator\microsoft.aspnetcore.app
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\microsoft.aspnetcore.app
+i:{53915daf-1977-4bb2-ac92-586c9f17806a}:h:\project\ms\aspnetmicroservices\src\services\catalog\catalog.api\microsoft.aspnetcore.app
+i:{b4ac0101-cb49-4a52-9063-3a78897be783}:h:\project\ms\aspnetmicroservices\src\services\basket\basket.api\microsoft.aspnetcore.app
+i:{dee3496f-700b-450e-9447-301ae0d14dbc}:h:\project\ms\aspnetmicroservices\src\services\discount\discount.api\microsoft.aspnetcore.app
+i:{7d9b1831-0cfd-461f-9285-1565139eb4ef}:h:\project\ms\aspnetmicroservices\src\services\discount\discount.grpc\microsoft.aspnetcore.app
+i:{87139596-371c-494f-8ea0-b4896edc92d6}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.api\microsoft.aspnetcore.app
+++Microsoft.VisualStudio.Azure.Containers.Tools.Targets (1.14.0)
+i:{1f5de1cb-0a46-4dc7-be41-8ff14cf6cf10}:>6624
+i:{2f049b89-25f5-431e-bea1-82c801efc053}:>6534
+i:{53915daf-1977-4bb2-ac92-586c9f17806a}:>6567
+i:{dee3496f-700b-450e-9447-301ae0d14dbc}:>6679
+i:{7d9b1831-0cfd-461f-9285-1565139eb4ef}:>6551
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:>15393
+++Ocelot (18.0.0)
+i:{1f5de1cb-0a46-4dc7-be41-8ff14cf6cf10}:>6623
+++Ocelot.Cache.CacheManager (18.0.0)
+i:{1f5de1cb-0a46-4dc7-be41-8ff14cf6cf10}:>6622
+++Shopping.Aggregator
+i:{ea419a35-7b61-4ca1-a0c5-4e5bb23c8e9d}:Shopping.Aggregator
+++Controllers
+i:{2f049b89-25f5-431e-bea1-82c801efc053}:h:\project\ms\aspnetmicroservices\src\apigateways\shopping.aggregator\controllers\
+i:{53915daf-1977-4bb2-ac92-586c9f17806a}:h:\project\ms\aspnetmicroservices\src\services\catalog\catalog.api\controllers\
+i:{b4ac0101-cb49-4a52-9063-3a78897be783}:h:\project\ms\aspnetmicroservices\src\services\basket\basket.api\controllers\
+i:{dee3496f-700b-450e-9447-301ae0d14dbc}:h:\project\ms\aspnetmicroservices\src\services\discount\discount.api\controllers\
+i:{87139596-371c-494f-8ea0-b4896edc92d6}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.api\controllers\
+++Projects
+i:{2f049b89-25f5-431e-bea1-82c801efc053}:projects
+i:{3e58f89c-8248-420e-a789-51b661ddae37}:projects
+i:{53915daf-1977-4bb2-ac92-586c9f17806a}:projects
+i:{b86c2519-59a1-40fa-81b8-1f0499e5e2de}:projects
+i:{2a1169ba-8d2c-4faa-9d49-3d6e26961d88}:projects
+i:{b4ac0101-cb49-4a52-9063-3a78897be783}:projects
+i:{591ec875-1cb6-414c-aa83-762aac7d4eaf}:projects
+i:{dee3496f-700b-450e-9447-301ae0d14dbc}:projects
+i:{92981f90-4561-4eb0-af43-b72fa83cd6c5}:projects
+i:{7d9b1831-0cfd-461f-9285-1565139eb4ef}:projects
+i:{87139596-371c-494f-8ea0-b4896edc92d6}:projects
+i:{5d3ad8f2-dd69-4c3f-aea2-722100e1069d}:projects
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:projects
+++ShoppingController.cs
+i:{2f049b89-25f5-431e-bea1-82c801efc053}:h:\project\ms\aspnetmicroservices\src\apigateways\shopping.aggregator\controllers\shoppingcontroller.cs
+++Swashbuckle.AspNetCore (6.5.0)
+i:{2f049b89-25f5-431e-bea1-82c801efc053}:>6533
+i:{b4ac0101-cb49-4a52-9063-3a78897be783}:>6654
+i:{dee3496f-700b-450e-9447-301ae0d14dbc}:>6678
+i:{87139596-371c-494f-8ea0-b4896edc92d6}:>6647
+++Shopping.Services
+i:{2f049b89-25f5-431e-bea1-82c801efc053}:h:\project\ms\aspnetmicroservices\src\apigateways\shopping.services\shopping.services.csproj
+i:{ea419a35-7b61-4ca1-a0c5-4e5bb23c8e9d}:Shopping.Services
+++Shopping.Models
+i:{ea419a35-7b61-4ca1-a0c5-4e5bb23c8e9d}:Shopping.Models
+i:{3e58f89c-8248-420e-a789-51b661ddae37}:h:\project\ms\aspnetmicroservices\src\apigateways\shopping.models\shopping.models.csproj
+++BasketItemExtendedModel.cs
+i:{57832d49-8515-4aba-add3-ecacd1425e03}:h:\project\ms\aspnetmicroservices\src\apigateways\shopping.models\basketitemextendedmodel.cs
+++BasketModel.cs
+i:{57832d49-8515-4aba-add3-ecacd1425e03}:h:\project\ms\aspnetmicroservices\src\apigateways\shopping.models\basketmodel.cs
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\models\basketmodel.cs
+++CatalogModel.cs
+i:{57832d49-8515-4aba-add3-ecacd1425e03}:h:\project\ms\aspnetmicroservices\src\apigateways\shopping.models\catalogmodel.cs
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\models\catalogmodel.cs
+++OrderResponseModel.cs
+i:{57832d49-8515-4aba-add3-ecacd1425e03}:h:\project\ms\aspnetmicroservices\src\apigateways\shopping.models\orderresponsemodel.cs
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\models\orderresponsemodel.cs
+++ShoppingModel.cs
+i:{57832d49-8515-4aba-add3-ecacd1425e03}:h:\project\ms\aspnetmicroservices\src\apigateways\shopping.models\shoppingmodel.cs
+++Extensions
+i:{3e58f89c-8248-420e-a789-51b661ddae37}:h:\project\ms\aspnetmicroservices\src\apigateways\shopping.services\extensions\
+i:{dee3496f-700b-450e-9447-301ae0d14dbc}:h:\project\ms\aspnetmicroservices\src\services\discount\discount.api\extensions\
+i:{7d9b1831-0cfd-461f-9285-1565139eb4ef}:h:\project\ms\aspnetmicroservices\src\services\discount\discount.grpc\extensions\
+i:{87139596-371c-494f-8ea0-b4896edc92d6}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.api\extensions\
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\extensions\
+++BasketService.cs
+i:{3e58f89c-8248-420e-a789-51b661ddae37}:h:\project\ms\aspnetmicroservices\src\apigateways\shopping.services\basketservice.cs
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\services\basketservice.cs
+++CatalogService.cs
+i:{3e58f89c-8248-420e-a789-51b661ddae37}:h:\project\ms\aspnetmicroservices\src\apigateways\shopping.services\catalogservice.cs
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\services\catalogservice.cs
+++IBasketService.cs
+i:{3e58f89c-8248-420e-a789-51b661ddae37}:h:\project\ms\aspnetmicroservices\src\apigateways\shopping.services\ibasketservice.cs
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\services\ibasketservice.cs
+++ICatalogService.cs
+i:{3e58f89c-8248-420e-a789-51b661ddae37}:h:\project\ms\aspnetmicroservices\src\apigateways\shopping.services\icatalogservice.cs
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\services\icatalogservice.cs
+++IOrderService.cs
+i:{3e58f89c-8248-420e-a789-51b661ddae37}:h:\project\ms\aspnetmicroservices\src\apigateways\shopping.services\iorderservice.cs
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\services\iorderservice.cs
+++OrderService.cs
+i:{3e58f89c-8248-420e-a789-51b661ddae37}:h:\project\ms\aspnetmicroservices\src\apigateways\shopping.services\orderservice.cs
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\services\orderservice.cs
+++HttpClientExtensions.cs
+i:{3e58f89c-8248-420e-a789-51b661ddae37}:h:\project\ms\aspnetmicroservices\src\apigateways\shopping.services\extensions\httpclientextensions.cs
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\extensions\httpclientextensions.cs
+++WebApps
+i:{00000000-0000-0000-0000-000000000000}:WebApps
+++AspnetRunBasics
+i:{e479d5e8-d5d0-4c44-af12-2fcfe05acf16}:AspnetRunBasics
+++wwwroot
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\wwwroot\
+++Data
+++Entities
+i:{bda3a7be-a5fb-489e-be65-10cf6ff85792}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.domain\entities\
+++Migrations
+i:{5d3ad8f2-dd69-4c3f-aea2-722100e1069d}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.infrastructure\migrations\
+++Pages
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\pages\
+++Repositories
+i:{5d3ad8f2-dd69-4c3f-aea2-722100e1069d}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.infrastructure\repositories\
+++Startup.cs
+i:{53915daf-1977-4bb2-ac92-586c9f17806a}:h:\project\ms\aspnetmicroservices\src\services\catalog\catalog.api\startup.cs
+++Microsoft.CodeAnalysis.Analyzers
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{87139596-371c-494f-8ea0-b4896edc92d6}:c:\users\k.deyjoori\.nuget\packages\microsoft.entityframeworkcore.analyzers\7.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{5d3ad8f2-dd69-4c3f-aea2-722100e1069d}:c:\users\k.deyjoori\.nuget\packages\microsoft.entityframeworkcore.analyzers\7.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.EntityFrameworkCore (5.0.0)
+++Microsoft.EntityFrameworkCore.InMemory (5.0.0)
+++Microsoft.EntityFrameworkCore.SqlServer (5.0.0)
+++Microsoft.EntityFrameworkCore.Tools (5.0.0)
+++Microsoft.Extensions.Logging.Debug (5.0.0)
+++Microsoft.VisualStudio.Azure.Containers.Tools.Targets (1.10.8)
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (5.0.0)
+++css
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\wwwroot\css\
+++images
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\wwwroot\images\
+++favicon.ico
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\wwwroot\favicon.ico
+++AspnetRunContext.cs
+++AspnetRunContextSeed.cs
+++Cart.cs
+++CartItem.cs
+++Category.cs
+++Contact.cs
+++Order.cs
+i:{bda3a7be-a5fb-489e-be65-10cf6ff85792}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.domain\entities\order.cs
+++Product.cs
+i:{4cec7d5e-0147-40e3-a0f3-56722dc5f0a2}:h:\project\ms\aspnetmicroservices\src\catalog.model\product.cs
+++20200218071258_Initial.cs
+++AspnetRunContextModelSnapshot.cs
+++Shared
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\pages\shared\
+++_ViewImports.cshtml
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\pages\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\pages\_viewstart.cshtml
+++Cart.cshtml
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\pages\cart.cshtml
+++CheckOut.cshtml
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\pages\checkout.cshtml
+++Confirmation.cshtml
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\pages\confirmation.cshtml
+++Contact.cshtml
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\pages\contact.cshtml
+++Error.cshtml
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\pages\error.cshtml
+++Index.cshtml
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\pages\index.cshtml
+++Order.cshtml
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\pages\order.cshtml
+++Privacy.cshtml
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\pages\privacy.cshtml
+++Product.cshtml
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\pages\product.cshtml
+++ProductDetail.cshtml
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\pages\productdetail.cshtml
+++Interfaces
+++CartRepository.cs
+++ContactRepository.cs
+++OrderRepository.cs
+i:{5d3ad8f2-dd69-4c3f-aea2-722100e1069d}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.infrastructure\repositories\orderrepository.cs
+++ProductRepository.cs
+i:{2a1169ba-8d2c-4faa-9d49-3d6e26961d88}:h:\project\ms\aspnetmicroservices\src\catalog.repositories\productrepository.cs
+++style.css
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\wwwroot\css\style.css
+++banner
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\wwwroot\images\banner\
+++product
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\wwwroot\images\product\
+++placeholder.png
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\wwwroot\images\placeholder.png
+++20200218071258_Initial.Designer.cs
+++_Layout.cshtml
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\pages\shared\_layout.cshtml
+++_ProductItemPartial.cshtml
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\pages\shared\_productitempartial.cshtml
+++_TopProductPartial.cshtml
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\pages\shared\_topproductpartial.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\pages\shared\_validationscriptspartial.cshtml
+++Cart.cshtml.cs
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\pages\cart.cshtml.cs
+++CheckOut.cshtml.cs
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\pages\checkout.cshtml.cs
+++Confirmation.cshtml.cs
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\pages\confirmation.cshtml.cs
+++Contact.cshtml.cs
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\pages\contact.cshtml.cs
+++Error.cshtml.cs
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\pages\error.cshtml.cs
+++Index.cshtml.cs
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\pages\index.cshtml.cs
+++Order.cshtml.cs
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\pages\order.cshtml.cs
+++Privacy.cshtml.cs
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\pages\privacy.cshtml.cs
+++Product.cshtml.cs
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\pages\product.cshtml.cs
+++ProductDetail.cshtml.cs
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\pages\productdetail.cshtml.cs
+++ICartRepository.cs
+++IContactRepository.cs
+++IOrderRepository.cs
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.application\contracts\persistence\iorderrepository.cs
+++IProductRepository.cs
+i:{2a1169ba-8d2c-4faa-9d49-3d6e26961d88}:h:\project\ms\aspnetmicroservices\src\catalog.repositories\iproductrepository.cs
+++banner1.png
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\wwwroot\images\banner\banner1.png
+++banner2.png
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\wwwroot\images\banner\banner2.png
+++banner3.png
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\wwwroot\images\banner\banner3.png
+++product-1.png
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\wwwroot\images\product\product-1.png
+++product-2.png
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\wwwroot\images\product\product-2.png
+++product-3.png
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\wwwroot\images\product\product-3.png
+++product-4.png
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\wwwroot\images\product\product-4.png
+++product-5.png
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\wwwroot\images\product\product-5.png
+++product-6.png
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\wwwroot\images\product\product-6.png
+++product-7.png
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\wwwroot\images\product\product-7.png
+++productx1.png
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\wwwroot\images\product\productx1.png
+++productx2.png
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\wwwroot\images\product\productx2.png
+++productx3.png
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\wwwroot\images\product\productx3.png
+++productx4.png
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\wwwroot\images\product\productx4.png
+++productx5.png
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\wwwroot\images\product\productx5.png
+++productx6.png
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\wwwroot\images\product\productx6.png
+++productx7.png
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\wwwroot\images\product\productx7.png
+++Services
+i:{00000000-0000-0000-0000-000000000000}:Services
+i:{7d9b1831-0cfd-461f-9285-1565139eb4ef}:h:\project\ms\aspnetmicroservices\src\services\discount\discount.grpc\services\
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\services\
+++Catalog
+i:{7f29acd9-4026-4203-bd1a-c5281be3a5ea}:Catalog
+++Catalog.API
+i:{9bd26d38-32d2-4cd9-8227-f9d804b8c6ef}:Catalog.API
+++CatalogController.cs
+i:{53915daf-1977-4bb2-ac92-586c9f17806a}:h:\project\ms\aspnetmicroservices\src\services\catalog\catalog.api\controllers\catalogcontroller.cs
+++MongoDB.Driver (2.18.0)
+i:{53915daf-1977-4bb2-ac92-586c9f17806a}:>6566
+i:{b86c2519-59a1-40fa-81b8-1f0499e5e2de}:>6472
+++Swashbuckle.AspNetCore (6.4.0)
+i:{53915daf-1977-4bb2-ac92-586c9f17806a}:>6564
+++Catalog.Repositories
+i:{53915daf-1977-4bb2-ac92-586c9f17806a}:h:\project\ms\aspnetmicroservices\src\catalog.repositories\catalog.repositories.csproj
+i:{9bd26d38-32d2-4cd9-8227-f9d804b8c6ef}:Catalog.Repositories
+++Catalog.Data
+i:{9bd26d38-32d2-4cd9-8227-f9d804b8c6ef}:Catalog.Data
+i:{2a1169ba-8d2c-4faa-9d49-3d6e26961d88}:h:\project\ms\aspnetmicroservices\src\catalog.data\catalog.data.csproj
+++CatalogContext.cs
+i:{b86c2519-59a1-40fa-81b8-1f0499e5e2de}:h:\project\ms\aspnetmicroservices\src\catalog.data\catalogcontext.cs
+++CatalogContextSeed.cs
+i:{b86c2519-59a1-40fa-81b8-1f0499e5e2de}:h:\project\ms\aspnetmicroservices\src\catalog.data\catalogcontextseed.cs
+++ICatalogContext.cs
+i:{b86c2519-59a1-40fa-81b8-1f0499e5e2de}:h:\project\ms\aspnetmicroservices\src\catalog.data\icatalogcontext.cs
+++Microsoft.Extensions.Configuration.Abstractions (7.0.0)
+i:{b86c2519-59a1-40fa-81b8-1f0499e5e2de}:>6471
+i:{92981f90-4561-4eb0-af43-b72fa83cd6c5}:>6506
+++Catalog.Model
+i:{b86c2519-59a1-40fa-81b8-1f0499e5e2de}:h:\project\ms\aspnetmicroservices\src\catalog.model\catalog.model.csproj
+i:{9bd26d38-32d2-4cd9-8227-f9d804b8c6ef}:Catalog.Model
+i:{2a1169ba-8d2c-4faa-9d49-3d6e26961d88}:h:\project\ms\aspnetmicroservices\src\catalog.model\catalog.model.csproj
+++MongoDB.Bson (2.18.0)
+i:{4cec7d5e-0147-40e3-a0f3-56722dc5f0a2}:>6486
+++Basket
+i:{7f29acd9-4026-4203-bd1a-c5281be3a5ea}:Basket
+++Basket.API
+i:{f5e70254-02b5-4cc5-9873-432c4e8f279b}:Basket.API
+++GrpcServices
+i:{b4ac0101-cb49-4a52-9063-3a78897be783}:h:\project\ms\aspnetmicroservices\src\services\basket\basket.api\grpcservices\
+++Mapper
+i:{b4ac0101-cb49-4a52-9063-3a78897be783}:h:\project\ms\aspnetmicroservices\src\services\basket\basket.api\mapper\
+i:{7d9b1831-0cfd-461f-9285-1565139eb4ef}:h:\project\ms\aspnetmicroservices\src\services\discount\discount.grpc\mapper\
+++Protos
+i:{b4ac0101-cb49-4a52-9063-3a78897be783}:h:\project\ms\aspnetmicroservices\src\services\basket\basket.api\protos\
+i:{7d9b1831-0cfd-461f-9285-1565139eb4ef}:h:\project\ms\aspnetmicroservices\src\services\discount\discount.grpc\protos\
+++BasketController.cs
+i:{b4ac0101-cb49-4a52-9063-3a78897be783}:h:\project\ms\aspnetmicroservices\src\services\basket\basket.api\controllers\basketcontroller.cs
+++DiscountGrpcService.cs
+i:{b4ac0101-cb49-4a52-9063-3a78897be783}:h:\project\ms\aspnetmicroservices\src\services\basket\basket.api\grpcservices\discountgrpcservice.cs
+++BasketProfile.cs
+i:{b4ac0101-cb49-4a52-9063-3a78897be783}:h:\project\ms\aspnetmicroservices\src\services\basket\basket.api\mapper\basketprofile.cs
+++discount.proto
+i:{b4ac0101-cb49-4a52-9063-3a78897be783}:h:\project\ms\aspnetmicroservices\src\services\discount\discount.grpc\protos\discount.proto
+i:{7d9b1831-0cfd-461f-9285-1565139eb4ef}:h:\project\ms\aspnetmicroservices\src\services\discount\discount.grpc\protos\discount.proto
+++AutoMapper.Extensions.Microsoft.DependencyInjection (12.0.0)
+i:{b4ac0101-cb49-4a52-9063-3a78897be783}:>6652
+i:{7d9b1831-0cfd-461f-9285-1565139eb4ef}:>6549
+i:{87139596-371c-494f-8ea0-b4896edc92d6}:>6645
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:>6591
+++Grpc.AspNetCore (2.51.0)
+i:{b4ac0101-cb49-4a52-9063-3a78897be783}:>6650
+i:{7d9b1831-0cfd-461f-9285-1565139eb4ef}:>6548
+++MassTransit (8.0.11)
+i:{b4ac0101-cb49-4a52-9063-3a78897be783}:>6656
+i:{87139596-371c-494f-8ea0-b4896edc92d6}:>6649
+++MassTransit.AspNetCore (7.3.1)
+i:{b4ac0101-cb49-4a52-9063-3a78897be783}:>6648
+i:{87139596-371c-494f-8ea0-b4896edc92d6}:>6643
+++MassTransit.RabbitMQ (8.0.11)
+i:{b4ac0101-cb49-4a52-9063-3a78897be783}:>6660
+i:{87139596-371c-494f-8ea0-b4896edc92d6}:>6658
+++Microsoft.Extensions.Caching.StackExchangeRedis (7.0.2)
+i:{b4ac0101-cb49-4a52-9063-3a78897be783}:>6659
+++Microsoft.VisualStudio.Azure.Containers.Tools.Targets (1.17.0)
+i:{b4ac0101-cb49-4a52-9063-3a78897be783}:>6657
+i:{87139596-371c-494f-8ea0-b4896edc92d6}:>6655
+++Basket.Repositories
+i:{b4ac0101-cb49-4a52-9063-3a78897be783}:h:\project\ms\aspnetmicroservices\src\services\basket\basket.repositories\basket.repositories.csproj
+i:{f5e70254-02b5-4cc5-9873-432c4e8f279b}:Basket.Repositories
+++Basket.Model
+i:{f5e70254-02b5-4cc5-9873-432c4e8f279b}:Basket.Model
+i:{591ec875-1cb6-414c-aa83-762aac7d4eaf}:h:\project\ms\aspnetmicroservices\src\services\basket\basket.model\basket.model.csproj
+++BasketCheckout.cs
+i:{7e836fd1-5761-4a66-b6a7-e17d110535f2}:h:\project\ms\aspnetmicroservices\src\services\basket\basket.model\basketcheckout.cs
+++ShoppingCart.cs
+i:{7e836fd1-5761-4a66-b6a7-e17d110535f2}:h:\project\ms\aspnetmicroservices\src\services\basket\basket.model\shoppingcart.cs
+++ShoppingCartItem.cs
+i:{7e836fd1-5761-4a66-b6a7-e17d110535f2}:h:\project\ms\aspnetmicroservices\src\services\basket\basket.model\shoppingcartitem.cs
+++BasketRepository.cs
+i:{591ec875-1cb6-414c-aa83-762aac7d4eaf}:h:\project\ms\aspnetmicroservices\src\services\basket\basket.repositories\basketrepository.cs
+++IBasketRepository.cs
+i:{591ec875-1cb6-414c-aa83-762aac7d4eaf}:h:\project\ms\aspnetmicroservices\src\services\basket\basket.repositories\ibasketrepository.cs
+++Microsoft.Extensions.Caching.Abstractions (7.0.0)
+i:{591ec875-1cb6-414c-aa83-762aac7d4eaf}:>6608
+++Newtonsoft.Json (13.0.2)
+i:{591ec875-1cb6-414c-aa83-762aac7d4eaf}:>6609
+++Discount
+i:{7f29acd9-4026-4203-bd1a-c5281be3a5ea}:Discount
+++Discount.API
+i:{c87a3fad-963e-4d11-acdc-0908fd16f59e}:Discount.API
+++DiscountController.cs
+i:{dee3496f-700b-450e-9447-301ae0d14dbc}:h:\project\ms\aspnetmicroservices\src\services\discount\discount.api\controllers\discountcontroller.cs
+++HostExtensions.cs
+i:{dee3496f-700b-450e-9447-301ae0d14dbc}:h:\project\ms\aspnetmicroservices\src\services\discount\discount.api\extensions\hostextensions.cs
+i:{7d9b1831-0cfd-461f-9285-1565139eb4ef}:h:\project\ms\aspnetmicroservices\src\services\discount\discount.grpc\extensions\hostextensions.cs
+i:{87139596-371c-494f-8ea0-b4896edc92d6}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.api\extensions\hostextensions.cs
+++Discount.Repositories
+i:{dee3496f-700b-450e-9447-301ae0d14dbc}:h:\project\ms\aspnetmicroservices\src\services\discount\discount.repositories\discount.repositories.csproj
+i:{c87a3fad-963e-4d11-acdc-0908fd16f59e}:Discount.Repositories
+i:{7d9b1831-0cfd-461f-9285-1565139eb4ef}:h:\project\ms\aspnetmicroservices\src\services\discount\discount.repositories\discount.repositories.csproj
+++Discount.Model
+i:{c87a3fad-963e-4d11-acdc-0908fd16f59e}:Discount.Model
+i:{92981f90-4561-4eb0-af43-b72fa83cd6c5}:h:\project\ms\aspnetmicroservices\src\services\discount\discount.model\discount.model.csproj
+++Coupon.cs
+i:{e8ed3e5a-959d-4d69-b3eb-2e75911ab746}:h:\project\ms\aspnetmicroservices\src\services\discount\discount.model\coupon.cs
+++DiscountRepository.cs
+i:{92981f90-4561-4eb0-af43-b72fa83cd6c5}:h:\project\ms\aspnetmicroservices\src\services\discount\discount.repositories\discountrepository.cs
+++IDiscountRepository.cs
+i:{92981f90-4561-4eb0-af43-b72fa83cd6c5}:h:\project\ms\aspnetmicroservices\src\services\discount\discount.repositories\idiscountrepository.cs
+++Dapper (2.0.123)
+i:{92981f90-4561-4eb0-af43-b72fa83cd6c5}:>6507
+++Npgsql (7.0.1)
+i:{92981f90-4561-4eb0-af43-b72fa83cd6c5}:>6508
+i:{7d9b1831-0cfd-461f-9285-1565139eb4ef}:>6552
+++Discount.Grpc
+i:{c87a3fad-963e-4d11-acdc-0908fd16f59e}:Discount.Grpc
+++DiscountProfile.cs
+i:{7d9b1831-0cfd-461f-9285-1565139eb4ef}:h:\project\ms\aspnetmicroservices\src\services\discount\discount.grpc\mapper\discountprofile.cs
+++DiscountService.cs
+i:{7d9b1831-0cfd-461f-9285-1565139eb4ef}:h:\project\ms\aspnetmicroservices\src\services\discount\discount.grpc\services\discountservice.cs
+++Ordering
+i:{7f29acd9-4026-4203-bd1a-c5281be3a5ea}:Ordering
+++Ordering.API
+i:{e37aae66-cdd0-441b-8beb-5ed7b9585264}:Ordering.API
+++EventBusConsumer
+i:{87139596-371c-494f-8ea0-b4896edc92d6}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.api\eventbusconsumer\
+++Mapping
+i:{87139596-371c-494f-8ea0-b4896edc92d6}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.api\mapping\
+++OrderController.cs
+i:{87139596-371c-494f-8ea0-b4896edc92d6}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.api\controllers\ordercontroller.cs
+++BasketCheckoutConsumer.cs
+i:{87139596-371c-494f-8ea0-b4896edc92d6}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.api\eventbusconsumer\basketcheckoutconsumer.cs
+++OrderingProfile.cs
+i:{87139596-371c-494f-8ea0-b4896edc92d6}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.api\mapping\orderingprofile.cs
+++AutoMapper (12.0.1)
+i:{87139596-371c-494f-8ea0-b4896edc92d6}:>6651
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:>6593
+++Microsoft.EntityFrameworkCore.Tools (7.0.2)
+i:{87139596-371c-494f-8ea0-b4896edc92d6}:>6653
+++Ordering.Application
+i:{87139596-371c-494f-8ea0-b4896edc92d6}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.application\ordering.application.csproj
+i:{5d3ad8f2-dd69-4c3f-aea2-722100e1069d}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.application\ordering.application.csproj
+i:{e37aae66-cdd0-441b-8beb-5ed7b9585264}:Ordering.Application
+++Ordering.Infrastructure
+i:{87139596-371c-494f-8ea0-b4896edc92d6}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.infrastructure\ordering.infrastructure.csproj
+i:{e37aae66-cdd0-441b-8beb-5ed7b9585264}:Ordering.Infrastructure
+++Ordering.Domain
+i:{e37aae66-cdd0-441b-8beb-5ed7b9585264}:Ordering.Domain
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.domain\ordering.domain.csproj
+++EntityBase.cs
+i:{bda3a7be-a5fb-489e-be65-10cf6ff85792}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.domain\common\entitybase.cs
+++ValueObject.cs
+i:{bda3a7be-a5fb-489e-be65-10cf6ff85792}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.domain\common\valueobject.cs
+++Mail
+i:{5d3ad8f2-dd69-4c3f-aea2-722100e1069d}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.infrastructure\mail\
+++Persistence
+i:{5d3ad8f2-dd69-4c3f-aea2-722100e1069d}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.infrastructure\persistence\
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.application\contracts\persistence\
+++InfrastructureServiceRegistration.cs
+i:{5d3ad8f2-dd69-4c3f-aea2-722100e1069d}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.infrastructure\infrastructureserviceregistration.cs
+++EmailService.cs
+i:{5d3ad8f2-dd69-4c3f-aea2-722100e1069d}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.infrastructure\mail\emailservice.cs
+++20230125064355_InitialCreate.cs
+i:{5d3ad8f2-dd69-4c3f-aea2-722100e1069d}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.infrastructure\migrations\20230125064355_initialcreate.cs
+++OrderContextModelSnapshot.cs
+i:{5d3ad8f2-dd69-4c3f-aea2-722100e1069d}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.infrastructure\migrations\ordercontextmodelsnapshot.cs
+++OrderContext.cs
+i:{5d3ad8f2-dd69-4c3f-aea2-722100e1069d}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.infrastructure\persistence\ordercontext.cs
+++OrderContextSeed.cs
+i:{5d3ad8f2-dd69-4c3f-aea2-722100e1069d}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.infrastructure\persistence\ordercontextseed.cs
+++RepositoryBase.cs
+i:{5d3ad8f2-dd69-4c3f-aea2-722100e1069d}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.infrastructure\repositories\repositorybase.cs
+++Microsoft.EntityFrameworkCore.SqlServer (7.0.2)
+i:{5d3ad8f2-dd69-4c3f-aea2-722100e1069d}:>6579
+++SendGrid (9.28.1)
+i:{5d3ad8f2-dd69-4c3f-aea2-722100e1069d}:>6580
+++20230125064355_InitialCreate.Designer.cs
+i:{5d3ad8f2-dd69-4c3f-aea2-722100e1069d}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.infrastructure\migrations\20230125064355_initialcreate.designer.cs
+++Behaviours
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.application\behaviours\
+++Contracts
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.application\contracts\
+++Exceptions
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.application\exceptions\
+++Features
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.application\features\
+++Mappings
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.application\mappings\
+++Models
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.application\models\
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\models\
+++ApplicationServiceRegistration.cs
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.application\applicationserviceregistration.cs
+++UnhandledExceptionBehaviour.cs
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.application\behaviours\unhandledexceptionbehaviour.cs
+++ValidationBehaviour.cs
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.application\behaviours\validationbehaviour.cs
+++Infrastructure
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.application\contracts\infrastructure\
+++NotFoundException.cs
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.application\exceptions\notfoundexception.cs
+++ValidationException.cs
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.application\exceptions\validationexception.cs
+++Orders
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.application\features\orders\
+++MappingProfile.cs
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.application\mappings\mappingprofile.cs
+++Email.cs
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.application\models\email.cs
+++EmailSettings.cs
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.application\models\emailsettings.cs
+++FluentValidation (11.4.0)
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:>6592
+++FluentValidation.DependencyInjectionExtensions (11.4.0)
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:>6590
+++MediatR.Extensions.Microsoft.DependencyInjection (11.0.0)
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:>6594
+++Microsoft.Extensions.Logging.Abstractions (7.0.0)
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:>6589
+++IEmailService.cs
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.application\contracts\infrastructure\iemailservice.cs
+++IAsyncRepository.cs
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.application\contracts\persistence\iasyncrepository.cs
+++Commands
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.application\features\orders\commands\
+++Queries
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.application\features\orders\queries\
+++CheckoutOrder
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.application\features\orders\commands\checkoutorder\
+++DeleteOrder
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.application\features\orders\commands\deleteorder\
+++UpdateOrder
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.application\features\orders\commands\updateorder\
+++GetOrdersList
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.application\features\orders\queries\getorderslist\
+++CheckoutOrderCommand.cs
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.application\features\orders\commands\checkoutorder\checkoutordercommand.cs
+++CheckoutOrderCommandHandler.cs
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.application\features\orders\commands\checkoutorder\checkoutordercommandhandler.cs
+++CheckoutOrderCommandValidator.cs
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.application\features\orders\commands\checkoutorder\checkoutordercommandvalidator.cs
+++DeleteOrderCommand.cs
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.application\features\orders\commands\deleteorder\deleteordercommand.cs
+++DeleteOrderCommandHandler.cs
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.application\features\orders\commands\deleteorder\deleteordercommandhandler.cs
+++UpdateOrderCommand.cs
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.application\features\orders\commands\updateorder\updateordercommand.cs
+++UpdateOrderCommandHandler.cs
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.application\features\orders\commands\updateorder\updateordercommandhandler.cs
+++UpdateOrderCommandValidator.cs
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.application\features\orders\commands\updateorder\updateordercommandvalidator.cs
+++GetOrdersListQuery.cs
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.application\features\orders\queries\getorderslist\getorderslistquery.cs
+++GetOrdersListqueryHandler.cs
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.application\features\orders\queries\getorderslist\getorderslistqueryhandler.cs
+++OrdersVm.cs
+i:{4cc4b8c7-2f4f-4306-8e39-31e84ea15436}:h:\project\ms\aspnetmicroservices\src\services\ordering\ordering.application\features\orders\queries\getorderslist\ordersvm.cs
+++Microsoft.EntityFrameworkCore (7.0.2)
+++Microsoft.EntityFrameworkCore.InMemory (7.0.2)
+++20230131112348_AspnetRunBasics.cs
+++20230131112348_AspnetRunBasics.Designer.cs
+++Secrets.json (Local)
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:>9954
+++Secrets.json (Local) dependency is detected
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:>9955
+++SQL Server Database (ConnectionStrings:AspnetRunConnection)
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:>9952
+++SQL Server Database dependency with connectionId 'ConnectionStrings:AspnetRunConnection' is detected
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:>9953
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.0)
+++Microsoft.Extensions.Logging.Debug (6.0.0)
+++Microsoft.Extensions.Logging.Debug (7.0.0)
+++MessagePackAnalyzer
+++20230201045103_AspnetRunBasics.cs
+++20230201045103_AspnetRunBasics.Designer.cs
+++20230201045301_AspnetRunBasics.cs
+++20230201045301_AspnetRunBasics.Designer.cs
+++NewFolder
+++BasketItemModel.cs
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\models\basketitemmodel.cs
+++BasketCheckoutModel.cs
+i:{75f3a1a4-3190-421b-96f1-0b85475b93e8}:h:\project\ms\aspnetmicroservices\src\webapps\aspnetrunbasics\models\basketcheckoutmodel.cs

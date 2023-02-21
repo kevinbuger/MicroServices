@@ -24,7 +24,7 @@
           "net6.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "G:\\TFS1400\\OxinProject.Plugin.ChangeAccount\\Source\\packages": {}
         },
         "frameworks": {
           "net6.0": {
@@ -80,7 +80,7 @@
           "net6.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "G:\\TFS1400\\OxinProject.Plugin.ChangeAccount\\Source\\packages": {}
         },
         "frameworks": {
           "net6.0": {
@@ -108,6 +108,10 @@
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[12.0.0, )"
+            },
+            "Confluent.Kafka": {
+              "target": "Package",
+              "version": "[2.0.2, )"
             },
             "Grpc.AspNetCore": {
               "target": "Package",
@@ -180,7 +184,7 @@
           "net6.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "G:\\TFS1400\\OxinProject.Plugin.ChangeAccount\\Source\\packages": {}
         },
         "frameworks": {
           "net6.0": {
@@ -236,7 +240,7 @@
           "net6.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "G:\\TFS1400\\OxinProject.Plugin.ChangeAccount\\Source\\packages": {}
         },
         "frameworks": {
           "net6.0": {

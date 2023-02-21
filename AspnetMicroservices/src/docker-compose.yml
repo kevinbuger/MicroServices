@@ -19,6 +19,12 @@ services:
   pgadmin:
     image: dpage/pgadmin4
   
+  zookeeper:
+    image: 'confluentinc/cp-zookeeper:latest'
+
+  kafka:
+    image: 'confluentinc/cp-kafka:latest' 
+  
   portainer:
     image: portainer/portainer-ce
 
